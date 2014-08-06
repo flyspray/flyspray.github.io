@@ -9,6 +9,7 @@
  * The manual pagination styling 
  * Where to store the stable download?
  * make the /news (news.html) page
+ * Write the current news posts
 
 ## Running localy
 See [Github Pages](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll)
@@ -42,7 +43,6 @@ order: 50
 
 Content goes here
 ```
-section.
 
 ### News
 
