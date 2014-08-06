@@ -11,7 +11,8 @@
  * make the /news (news.html) page
 
 ## Running localy
-See [Github pages](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll)
+See [Github Pages](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll)
+[Github Pages Guide](https://pages.github.com/)
 
 ### Manual
 

@@ -9,7 +9,7 @@ title: "Flyspray: The bug killer!"
 		Flyspray is an uncomplicated, web-based bug tracking system written in PHP for assisting with software development. Originally developed for the <a href="http://www.psi-im.org/">Psi Jabber client</a> project it has been made available to everyone under the GPL 2.1 licence.
 	</p>
 	<div class="btn-group btn-group-justified ">
-		<a class="btn btn-success btn-lg" href="{{ site.baseurl }}/docs/downloadX">Download</a>
+		<a class="btn btn-success btn-lg" href="{{ site.baseurl }}/docs/download">Download</a>
 		<a class="btn btn-info btn-lg" href="{{ site.baseurl }}/community/mailing-list">Mailing List</a>
 		<a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/manual">Manual</a>
 	</div>
