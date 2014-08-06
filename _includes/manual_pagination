@@ -1,0 +1,38 @@
+{% for section in site.manual_sections %}
+  {% assign attr = section[0] %}
+  {% assign label = section[1] %}
+
+
+  {% assign manual_page = [] %}
+  {% assign sorted_pages = (site.manual | where: "manual", attr)  %}
+  {% if sorted_pages %}
+      {% assign pages = sorted_pages | sort: 'order' %}
+  {% endif %}
+
+  {% for manual_page in pages %}
+    {% if manual_page.url == page.url %}
+      {% assign found = true %}
+    {% elsif found %}
+      {% assign next_url = manual_page.url %}
+      {% assign next_title = manual_page.title %}
+      {% break %}
+    {% else %}
+      {% assign prev_url = manual_page.url %}
+      {% assign prev_title = manual_page.title %}
+    {% endif %}
+  {% endfor %}
+
+  {% if next_url %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+<div class="manual-pagination btn-group btn-group-justified btn-group-lg">
+  {% if prev_url %}
+    <a class="btn btn-default col-md-12" href="{{prev_url}}">{{prev_title}}</a>
+  {% endif %}
+  <a class="btn btn-default" href="/manual">Index</a>
+  {% if next_url %}
+    <a class="btn btn-default" href="{{next_url}}">{{next_title}}</a>
+  {% endif %}
+</div>

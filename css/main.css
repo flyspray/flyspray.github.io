@@ -1,0 +1,155 @@
+body {
+}
+
+h1, h2, h3, h4, h5 {
+    color: #253068;
+    font-weight: bold;
+}
+
+a {
+    color: #676e8b;
+    font-weight: bolder;
+}
+
+a:active, a:hover {
+    color: #253068;
+}
+
+pre, code {
+    border: none;
+    border-radius: 0;
+    background-color: #f9f9f9;
+    font-size: 0.85em;
+}
+
+pre {
+    font-size: 1em;
+}
+
+code {
+    color: inherit;
+}
+
+p {
+    padding-left: 10px;
+}
+a.brand {
+    float: left;
+    background-image: url(../images/fs-logo.png);
+    background-repeat: no-repeat;
+    background-size: Auto 50px;
+
+    height: 60px;
+    width: 155px;
+}
+
+a.brand span {
+    display: none;
+}
+
+.jumbotron-buttons {
+    padding: 15px 0;
+}
+.jumbotron p {
+    padding-left: 0;
+}
+
+.jumbotron a.btn {
+    color: #ffffff;
+}
+
+#header {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 20px;
+    display: block;
+    float: left;
+}
+
+#header h4 small {
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 10px; 
+    height: 30px;
+}
+
+
+#header a:hover {
+    text-decoration: none;
+}
+
+#footer {
+    margin: 20px 0;
+    font-size: 0.85em;
+    color: #999;
+    text-align: center;
+}
+
+#content > .page-header:first-child {
+    margin-top: 0;
+}
+
+#content > .page-header:first-child h2 {
+    margin-top: 0;
+}
+
+
+#navigation {
+    font-size: 0.9em;
+}
+
+#navigation li a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#navigation .nav-header {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body .modal-body {
+    max-width: 80%;
+    width: 80%; /* respsonsive width */
+    margin-left:-40%;
+}
+
+.nav > li.nav-header {
+    display: block;
+    padding: 3px 15px 3px 0;
+    line-height: 20px;
+    color: #999999;
+    cursor: default;
+    font-size: 11.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.nav >li>a {
+    padding: 3px 15px;
+    line-height: 20px;
+}
+
+.nav li+.nav-header {
+    margin-top: 9px;
+}
+
+.nav-list>li>a, .nav-list .nav-header {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+#navigation {
+    font-size: 0.9em;
+}
+
+#navigation li a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#navigation {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.manual-pagination {
+    padding-top:20px;
+}

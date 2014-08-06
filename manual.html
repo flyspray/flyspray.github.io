@@ -1,0 +1,35 @@
+---
+layout: page
+title: "Manual"
+---
+<p>
+Welcome to the Flyspray Documentation. This documentation applies to Flyspray version 0.9.8, although some of it may be useful for older versions as well. Please have a quick read through these pages before reporting a bug or requesting a feature - that feature might already be in Flyspray, but you just don't know where to find it.
+</p>
+<p>
+We encourage you to help us write more documentation! <a href="writing_documentation">Get started here</a>
+</p>
+
+
+{% for section in site.manual_sections %}
+	{% assign attr = section[0] %}
+	{% assign label = section[1] %}
+
+
+  {% assign pages = [] %}
+  {% assign sorted_pages = (site.manual | where: "manual", attr)  %}
+  {% if sorted_pages %}
+      {% assign pages = sorted_pages | sort: 'order' %}
+  {% endif %}
+    {% for page in pages %}
+      {% if forloop.first %}
+    	 <h3>{{ label }}</h3>
+       <ul>
+      {% endif %}
+
+        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+
+      {% if forloop.last %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+{% endfor %}
