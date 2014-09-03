@@ -1,6 +1,6 @@
 ---
 layout: manual
-title: Dependenicies
+title: Dependencies
 manual: tasks
 order: 40
 ---

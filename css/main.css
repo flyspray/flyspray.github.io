@@ -30,8 +30,12 @@ code {
     color: inherit;
 }
 
-p {
+p, dl {
     padding-left: 10px;
+}
+
+dt, dd {
+    padding-bottom: 10px;
 }
 a.brand {
     float: left;

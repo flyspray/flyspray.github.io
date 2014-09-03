@@ -7,6 +7,7 @@
  * Team
  * Link & header colors
  * The manual pagination styling 
+   * Fix links - long names overflow
  * Where to store the stable download?
  * make the /news (news.html) page
  * Write the current news posts
