@@ -4,16 +4,25 @@ title: "Flyspray Security Announcement 1"
 ---
 ### Flyspray Administrator authentication bypass (2007-03-16) 
 
-|               |            |
-|---------------|------------|
-| Release Date  | 2007-03-16 |
-| Last Modified | 2007-04-04 (added CVE references) |
-| Author        | Cristian Rodriguez <judas.iscariote at flyspray dot org> |
-| Application   | Flyspray 0.9.9 |
-| Risk          | High |
-| Vendor Status | The Flyspray project has released an updated version |
-| References    | http://www.flyspray.org/fsa:1, [CVE-2007-1788](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-1788)|
-| Discovered by | Stefan Esser <sesser at hardened-php dot net> |
+<dl class="dl-horizontal">
+	<dt>Release Date</dt>
+	<dd>2007-03-16</dd>
+	<dt>Last Modified</dt>
+	<dd>2007-04-04 (added CVE references)</dd>
+	<dt>Author</dt>
+	<dd>Cristian Rodriguez <judas.iscariote at flyspray dot org></dd>
+	<dt>Application</dt>
+	<dd>Flyspray 0.9.9</dd>
+	<dt>Risk</dt>
+	<dd>High</dd>
+	<dt>Vendor Status</dt>
+	<dd>The Flyspray project has released an updated version</dd>
+	<dt>References</dt>
+	<dd><http://www.flyspray.org/devel/security/fsa1>, [CVE-2007-1788](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-1788)</dd>
+	<dt>Discovered by</dt>
+	<dd>Stefan Esser <sesser at hardened-php dot net></dd>
+<dl>
+
 
 #### Details
 Flyspray authentication system can be bypassed by sending a carefully crafted post request.

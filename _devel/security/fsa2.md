@@ -3,17 +3,26 @@ layout: page
 title: "Flyspray Security Announcement 2"
 ---
 ### Flyspray Cross Site Scripting Vulnerabilities (2007-12-09) 
-
-|               |            |
-|---------------|------------|
-| Release Date  | 2007-12-09 |
-| Last Modified | 2007-12-09 |
-| Author        | Cristian Rodriguez <judas.iscariote at flyspray dot org> |
-| Application   | Flyspray 0.9.9 - 0.9.9.3 |
-| Risk          | Low |
-| Vendor Status | The Flyspray project has released an updated version |
-| References    | http://www.flyspray.org/fsa:2|
-| Discovered by | KAWASHIMA Takahiro <rivis.kawashima at nifty.com> |
+  
+  
+<dl class="dl-horizontal">
+	<dt>Release Date</dt>
+	<dd>2007-12-09</dd>
+	<dt>Last Modified</dt>
+	<dd>2007-12-09</dd>
+	<dt>Author</dt>
+	<dd>Cristian Rodriguez <judas.iscariote at flyspray dot org></dd>
+	<dt>Application</dt>
+	<dd>Flyspray 0.9.9 - 0.9.9.3</dd>
+	<dt>Risk</dt>
+	<dd>Low</dd>
+	<dt>Vendor Status</dt>
+	<dd>The Flyspray project has released an updated version</dd>
+	<dt>References</dt>
+	<dd><http://www.flyspray.org/devel/security/fsa3></dd>
+	<dt>Discovered by</dt>
+	<dd>KAWASHIMA Takahiro <rivis.kawashima at nifty.com></dd>
+<dl>
 
 #### Details
 

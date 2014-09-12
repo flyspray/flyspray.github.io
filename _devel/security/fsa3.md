@@ -4,17 +4,24 @@ title: "Flyspray Security Announcement 3"
 ---
 
 ### Flyspray Cross Site Scripting Vulnerabilities (2008-02-11) 
-
-|               |            |
-|---------------|------------|
-| Release Date  | 2008-02-24 |
-| Last Modified | 2008-02-24 |
-| Author        | Florian Schmitz <floele at flyspray dot org> |
-| Application   | Flyspray 0.9.9 - 0.9.9.4 |
-| Risk          | Low |
-| Vendor Status | The Flyspray project has released an updated version |
-| References    | http://www.flyspray.org/fsa:3|
-| Discovered by | Digital Security Research Group (DSecRG) |
+<dl class="dl-horizontal">
+	<dt>Release Date</dt>
+	<dd>2008-02-24</dd>
+	<dt>Last Modified</dt>
+	<dd>2008-02-24</dd>
+	<dt>Author</dt>
+	<dd>Florian Schmitz <floele at flyspray dot org></dd>
+	<dt>Application</dt>
+	<dd>Flyspray 0.9.9 - 0.9.9.4</dd>
+	<dt>Risk</dt>
+	<dd>Low</dd>
+	<dt>Vendor Status</dt>
+	<dd>The Flyspray project has released an updated version</dd>
+	<dt>References</dt>
+	<dd><http://www.flyspray.org/devel/security/fsa3></dd>
+	<dt>Discovered by</dt>
+	<dd>Digital Security Research Group (DSecRG)</dd>
+<dl>
 
 
 #### Details 
