@@ -1,8 +1,10 @@
 ## TODO
  * FAQ
  * _docs/requirements
- * Manual - All pages
-   * Also needs new screenshots
+ * Manual 
+   * Existing manual pages have been ported
+	* Needs to be proof read & checked against Fs version 1 
+   * Administration & Contributions need to be created
  * Real world users list
  * Team
  * Link & header colors

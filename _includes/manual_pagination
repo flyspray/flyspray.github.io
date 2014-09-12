@@ -27,12 +27,12 @@
   {% endif %}
 {% endfor %}
 
-<div class="manual-pagination btn-group btn-group-justified btn-group-lg">
+<div id="manual-pagination" class="text-center">
   {% if prev_url %}
-    <a class="btn btn-default col-md-12" href="{{prev_url}}">{{prev_title}}</a>
+    <a href="{{prev_url}}"><span class="glyphicon glyphicon-chevron-left"></span> {{prev_title}}</a> |
   {% endif %}
-  <a class="btn btn-default" href="/manual">Index</a>
+  <a href="/manual">Index</a>
   {% if next_url %}
-    <a class="btn btn-default" href="{{next_url}}">{{next_title}}</a>
+    | <a href="{{next_url}}">{{next_title}} <span class="glyphicon glyphicon-chevron-right"></span></a>
   {% endif %}
 </div>
