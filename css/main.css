@@ -66,6 +66,13 @@ a.brand span {
     padding: 20px 0;
 }
 
+.profile-picture {
+    float:left;
+    width: 130px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;

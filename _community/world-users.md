@@ -12,6 +12,7 @@ Here are just a few:
  * [Rockbox](http://www.rockbox.org/tracker) - media player software
  * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
  * [Arch Linux](http://bugs.archlinux.org/)
+ * [CDBurnerXP](https://bugs.cdburnerxp.se)
  * [Arcade Buffs]([http://www.arcadebuffs.com)
  * [Beverly Hills Auto Group](http://www.bhautogroup.com)
  * [Beverly Hills Chairs](http://www.beverlyhillschairs.com)

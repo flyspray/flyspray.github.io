@@ -1,24 +1,26 @@
-## TODO
+[toc]
+
+### TODO
  * FAQ
- * _docs/requirements
+ * ~~docs/requirements~~
  * Manual 
    * Existing manual pages have been ported
 	* Needs to be proof read & checked against Fs version 1 
    * Administration & Contributions need to be created
- * Real world users list
+ * ~~Real world users list~~ Currently only public facing Flyspray installs - no way to check the others
  * Team
  * Link & header colors
- * The manual pagination styling 
-   * Fix links - long names overflow
+ * ~~The manual pagination styling~~
+   * ~~Fix links - long names overflow~~
  * Where to store the stable download?
  * make the /news (news.html) page
  * Write the current news posts
 
-## Running localy
+### Running localy
 See [Github Pages](https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll)
 [Github Pages Guide](https://pages.github.com/)
 
-### Manual
+### Manual Pages
 
 All manual pages are store in the `_manual` folder.
 Files are named `name_here.md`.
@@ -46,6 +48,8 @@ order: 50
 
 Content goes here
 ```
+
+#### Translating the manual
 
 ### News
 
