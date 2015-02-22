@@ -64,7 +64,7 @@ title: "Flyspray: The bug killer!"
 	</a>
   </div>
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot2.png" class="thumbnail">
+    <a href="images/screenshots/screenshot3.png" class="thumbnail">
 		<img alt="" src="images/screenshots/screenshot3-thumb.png">
 	</a>
   </div>
