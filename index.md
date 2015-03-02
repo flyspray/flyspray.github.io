@@ -55,34 +55,34 @@ title: "Flyspray: The bug killer!"
 <div class="row">
   <div class="col-xs-8 col-md-4">
     <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot1-thumb.png">
+		<img alt="" src="images/screenshots/screenshot1-thumb.png">
 	</a>
   </div>
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot2-thumb.png">
+    <a href="images/screenshots/screenshot2.png" class="thumbnail">
+		<img alt="" src="images/screenshots/screenshot2-thumb.png">
 	</a>
   </div>
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot3-thumb.png">
+    <a href="images/screenshots/screenshot3.png" class="thumbnail">
+		<img alt="" src="images/screenshots/screenshot3-thumb.png">
 	</a>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot4-thumb.png">
+    <a href="images/screenshots/screenshot4.png" class="thumbnail">
+		<img alt="" src="images/screenshots/screenshot4-thumb.png">
 	</a>
   </div>
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot5-thumb.png">
+    <a href="images/screenshots/screenshot5.png" class="thumbnail">
+		<img alt="" src="images/screenshots/screenshot5-thumb.png">
 	</a>
   </div>
   <div class="col-xs-8 col-md-4">
-    <a href="images/screenshots/screenshot1.png" class="thumbnail">
-			<img alt="" src="images/screenshots/screenshot6-thumb.png">
+    <a href="images/screenshots/screenshot6.png" class="thumbnail">
+		<img alt="" src="images/screenshots/screenshot6-thumb.png">
 	</a>
   </div>
 </div>
