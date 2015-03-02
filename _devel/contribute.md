@@ -38,7 +38,7 @@ We currently only support [MySql](http://www.mysql.com/) and [PostgreSQL](http:/
 
 Although we strive to make Flyspray easy to use, it's always helpful to have documentation available.  Unfortunately we don't always have time to write both the Flyspray code and the user manual, and we prefer to concentrate on the code.  All is not lost, as anyone can [checkout](/manual/writing_documentation) and edit the [User Manual](/manual).
 
-We would like users of this wiki to write in English, and although we prefer British/Australian, we also accept American. :-)  No other languages for now, thank you.
+We would like users of this page to write in English. No other languages for now, thank you.
 
 
 #### Talk to us 
