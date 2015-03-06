@@ -26,6 +26,7 @@ I was born in 1987 and live in Germany. I found Flyspray when I needed a bug tra
 
 Since end of 2006 I'm doing distance learning at the distance university in Hagen alongside the civilian service (which ended by now). Apart from coding I like good music, preferably orchestrated game music and soundtracks (yes, I know that my taste is not very conventional).
 
+
 ### Sean DuBois (aka. Sean-Der)
 
 <img src="/images/team/sean.png" class="img-circle profile-picture">
@@ -33,9 +34,11 @@ I was born in June 1993. I have had great luck putting random keycodes into my c
 
 In my free time I work on my vinyl collection and enjoy local restaurants. I feel comfortable in C, PHP, Python, Scheme (Read your SICP Son!), Javascript and SQL. I am always trying new stuff out and feel proud that I have learned 0.0001% of what is required to call myself a good computer programmer.  
 
+
 ### Scott 
 
 <img src="/images/team/scott.png" class="img-circle profile-picture"> Found Flyspray from using Archlinux. Been using Flyspray ever since. Joined as a developer in January 2012 since development has been slow. I work in k-12 education managing servers, databases, training techs, and I do custom programming. I am skilled in PHP, Perl, Java, SQL, JQuery/JS, and CSS/HTML5. I enjoy web development as a job and hobby. I live in the USA.
+
 
 ### Bryan 
 
@@ -51,6 +54,7 @@ Im currently employed at [SUSE R&D/ Novell Inc.](http://www.suse.de) working rem
 
 In my free time I enjoy playing guitar and listening to music **madly**. :-P
 
+
 ### Tony Collins (aka. knigits)
 
 <img src="/images/team/tony-head.jpg" class="img-circle profile-picture">
@@ -59,6 +63,7 @@ I was the original web master/monkey for the [Psi Jabber client](http://www.psi-
 Today, I am the Flyspray Project Manager and lead developer.  I also maintain the website, and contribute to the documentation.  I manage the mailing list subscriptions and delete spam before it reaches the subscribers.
 
 When I'm not doing Flyspray-related things, I enjoy martial arts training and trying to keep up with my young family (one wife, three kids and a budgie).
+
 
 ### Serge Volkoff (a.k.a. netWolf)
 
@@ -71,11 +76,12 @@ year_of_birth     location          interests       possible_usage
 ```
 As you can guess, I'm responsible for the Flyspray DB support
 
+
 ### Konrad Roziewski 
 
 <img src="/images/team/user.png" class="img-circle profile-picture">
 Konrad hasn't yet provided any information about himself.
-<br><br><br><br><br><br>
+
 
 ### Anders Betnér 
 
@@ -84,12 +90,14 @@ I found out about Flyspray while using jpgraph where Flyspray is the bug tracker
 
 I live in Linköping, in the south east of Sweden, with my girlfriend and two kids. Top interest (apart from the family :) would be alpine skiing.
 
+
 ### Mac Newbold 
 
 <img src="/images/team/daemon.png" class="img-circle profile-picture">
 I was introduced to Flyspray in at the beginning of May 2005, and immediately fell in love with the system and how easy it was to use and modify, and started contributing changes that we wanted to make to it. Due to time constraints, I  mostly do testing and small bug fixes, and enhancements that are important enough to the company that I can do them on company time. One such feature was the Task Dependency Graph [bug 573](http://bugs.flyspray.org/573), which is working but undergoing enhancements [bug 612](http://bugs.flyspray.org/612) to make it useful to more people. I also pay close attention as much as possible to the [mailing list](/community/mailing-list/) and IRC channel (#flyspray on irc.freenode.net) to provide support, answer questions, and promote Flyspray as much as I can.
 
 When I'm not working on Flyspray, I'm usually working for the web-development company I co-founded, [Code Greene](http://www.codegreene.com/) . I'm a big fan of FreeBSD (thus the daemon image), PHP, MySQL, and quite a few other things. Whenever I can get away from long days at work, I love to spend time with my growing family, complete with wife, three young boys, a dog, and our small group of chickens (all hens, thank goodness). We live in the U.S.A. in the state of Utah.
+
 
 ### Pierre Habouzit 
 
