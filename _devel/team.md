@@ -16,6 +16,7 @@ I am the President & CTO of [The Veloz Group](http://www.thevelozgroup.com), and
 
 In an effort to revitalize Flyspray, [The Veloz Group](http://www.thevelozgroup.com) has become the official sponsor of Flyspray, and will be diverting a lot of resources to its development. We are currently working on Flyspray 1.0, to be launched around new years, after which we will begin a code rewrite for Flyspray 2.0.
 
+<br><br>
 ## Inactive, past or occassional contributors 
 
 ### Florian Schmitz (aka. floele)
