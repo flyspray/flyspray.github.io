@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Flyspray Development Team"
+title: "Development Team"
 order: 0
 ---
 
@@ -8,12 +8,6 @@ Many people have contributed to Flyspray over the years, and while we appreciate
 
 ## Active Contributors
 
-### Florian Schmitz (aka. floele)
-
-<img src="/images/team/dog.png" class="img-circle profile-picture">
-I was born in 1987 and live in Germany. I found Flyspray when I needed a bug tracking system for [CDBurnerXP](http://cdburnerxp.se), the well known Bugzilla was no option for me since it is written in Perl and has a quite ugly appearance. Mainly because of the nice layout and the ease of use I liked Flyspray a lot. Since I didn't like a few things in 0.9.8 (especially concerning the changed layout) I started to take part in the development. By now I contributed much more than I would ever have expected (in fact I became the project manager in less than a year). I am more or less skilled in (X)HTML/XML, CSS, SQL, C#/WPF and PHP (less in Java and JS).
-
-Since end of 2006 I'm doing distance learning at the distance university in Hagen alongside the civilian service (which ended by now). Apart from coding I like good music, preferably orchestrated game music and soundtracks (yes, I know that my taste is not very conventional).
 
 ### Jordan Mendler
 
@@ -22,6 +16,15 @@ I am the President & CTO of [The Veloz Group](http://www.thevelozgroup.com), and
 
 In an effort to revitalize Flyspray, [The Veloz Group](http://www.thevelozgroup.com) has become the official sponsor of Flyspray, and will be diverting a lot of resources to its development. We are currently working on Flyspray 1.0, to be launched around new years, after which we will begin a code rewrite for Flyspray 2.0.
 
+## Inactive, past or occassional contributors 
+
+### Florian Schmitz (aka. floele)
+
+<img src="/images/team/dog.png" class="img-circle profile-picture">
+I was born in 1987 and live in Germany. I found Flyspray when I needed a bug tracking system for [CDBurnerXP](http://cdburnerxp.se), the well known Bugzilla was no option for me since it is written in Perl and has a quite ugly appearance. Mainly because of the nice layout and the ease of use I liked Flyspray a lot. Since I didn't like a few things in 0.9.8 (especially concerning the changed layout) I started to take part in the development. By now I contributed much more than I would ever have expected (in fact I became the project manager in less than a year). I am more or less skilled in (X)HTML/XML, CSS, SQL, C#/WPF and PHP (less in Java and JS).
+
+Since end of 2006 I'm doing distance learning at the distance university in Hagen alongside the civilian service (which ended by now). Apart from coding I like good music, preferably orchestrated game music and soundtracks (yes, I know that my taste is not very conventional).
+
 ### Sean DuBois (aka. Sean-Der)
 
 <img src="/images/team/sean.png" class="img-circle profile-picture">
@@ -29,17 +32,14 @@ I was born in June 1993. I have had great luck putting random keycodes into my c
 
 In my free time I work on my vinyl collection and enjoy local restaurants. I feel comfortable in C, PHP, Python, Scheme (Read your SICP Son!), Javascript and SQL. I am always trying new stuff out and feel proud that I have learned 0.0001% of what is required to call myself a good computer programmer.  
 
-### Bryan 
-
-Loves the command line.
-
 ### Scott 
 
 <img src="/images/team/scott.png" class="img-circle profile-picture"> Found Flyspray from using Archlinux. Been using Flyspray ever since. Joined as a developer in January 2012 since development has been slow. I work in k-12 education managing servers, databases, training techs, and I do custom programming. I am skilled in PHP, Perl, Java, SQL, JQuery/JS, and CSS/HTML5. I enjoy web development as a job and hobby. I live in the USA.
 
-<br><br>
+### Bryan 
 
-## Inactive, past or occassional contributors 
+Loves the command line.
+
 
 ### Cristian Rodriguez (aka. judas_iscariote)
 
