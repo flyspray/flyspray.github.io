@@ -21,7 +21,7 @@ You've come to the right place. Before downloading, you might like to check the 
 <tbody>
 	<tr>
 		<td>Stable</td>
-		<td><a href="http://flyspray.org/flyspray-0.9.9.7.zip">Flyspray 0.9.9.7</a></td>
+		<td><a href="http://flyspray.org/packed/flyspray-0.9.9.7.zip">Flyspray 0.9.9.7</a></td>
 		<td><strong>SHA1SUM:</strong> 056C192BD0FB07905E537869E55D4298D384D6C9 </td>
 	</tr>
 	<tr>
