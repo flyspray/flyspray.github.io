@@ -27,7 +27,9 @@ And make sure to add yourself to (/devel/team/)!
 
 #### Write documentation 
 
-Although we strive to make Flyspray easy to use, it's always helpful to have documentation available.  Unfortunately we don't always have time to write both the Flyspray code and the user manual, and we prefer to concentrate on the code.  All is not lost, as anyone can [checkout](/manual/writing_documentation) and edit the [User Manual](/manual). We would like users of the site to write in English.
+Although we strive to make Flyspray easy to use, it's always helpful to have documentation available.  Unfortunately we don't always have time to write both the Flyspray code and the user manual, and we prefer to concentrate on the code.  All is not lost, as anyone can [checkout](/manual/writing_documentation) and edit the [User Manual](/manual).
+
+We would like users of this page to write in English. No other languages for now, thank you.
 
 
 #### Talk to us 

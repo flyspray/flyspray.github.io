@@ -44,6 +44,6 @@ Also, There are a few third party flyspray integrations that we are aware of :
   * active-factory
   * A modified version included with EGroupware.
 
-Please **do not** contact us about vulnerabilities in that products, **unless** the problem is present in **officially supported** Flyspray releases available in either the download section or in the **active branches** of our SVN repository. 
+Please **do not** contact us about vulnerabilities in that products, **unless** the problem is present in **officially supported** Flyspray releases available in either the download section or in the **active branches** of our Git repository. 
 
 We have no control of the code included in that tools.  
