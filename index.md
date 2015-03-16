@@ -28,7 +28,7 @@ title: "Flyspray: The bug killer!"
 			<h3>Features Include:</h3>
 			<ul>
 				<li>Web-based, OS-independent, written in PHP</li>
-				<li>Multiple database support, currently MySQL and PostgresQL</li>
+				<li>Multiple database support, currently MySQL and PostgreSQL</li>
 				<li>Easy installation</li>
 				<li>Easy to use</li>
 				<li>Multiple projects</li>
