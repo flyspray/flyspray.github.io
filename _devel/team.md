@@ -25,8 +25,17 @@ I started to use Flyspray years ago already, when I was developing some game emu
 
 In my free time, well, I code, and also sometimes I code beside coding. Ho yeah, forgot that I also do like games, on my computer or on my Xbox One. I have nothing against a little drink with my friends as well.
 
+### jahto
 
-<br><br>
+### peterdd
+
+<img src="//avatars1.githubusercontent.com/u/1839154?s=130" class="img-circle profile-picture">
+Started contributing code to Flyspray in February 2015, I'm quite new to the dev team.
+But I know Flyspray for over 10 years, first as an extension component for CMS Joomla 1.0.*.
+This year I remembered when in need for such tool and now I try to help to bring it to a production ready shape plus
+adding my own features/requirements.
+
+
 ## Inactive, past or occassional contributors 
 
 ### Florian Schmitz (aka. floele)
