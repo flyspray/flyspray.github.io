@@ -100,7 +100,7 @@ As you can guess, I'm responsible for the Flyspray DB support
 
 <img src="/images/team/user.png" class="img-circle profile-picture">
 Konrad hasn't yet provided any information about himself.
-
+<br><br><br><br><br><br>
 
 ### Anders Betnér 
 
