@@ -34,6 +34,7 @@ Started contributing code to Flyspray in February 2015, I'm quite new to the dev
 But I know Flyspray for over 10 years, first as an extension component for CMS Joomla 1.0.*.
 This year I remembered when in need for such tool and now I try to help to bring it to a production ready shape plus
 adding my own features/requirements.
+<br><br><br>
 
 
 ## Inactive, past or occassional contributors 
