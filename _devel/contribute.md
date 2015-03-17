@@ -22,7 +22,7 @@ If you know PHP, you are welcome to modify Flyspray to suit your needs. If you w
 
 We realise that a lot of Flyspray's code isn't this clean or meet our own coding syle, but we are working to remove the spaghetti code a bit at a time.
 
-And make sure to add yourself to (/devel/team/)!
+And make sure to add yourself to [Development Team](/devel/team/)!
 
 
 #### Write documentation 
@@ -34,7 +34,7 @@ We would like users of this page to write in English. No other languages for now
 
 #### Talk to us 
 
-[Tell us](/community/mailing-list) what we're doing right or wrong! It is very motivating when people take an interest in the project. And make sure to add yourself to (/community/world-users/).
+[Tell us](/community/mailing-list) what we're doing right or wrong! It is very motivating when people take an interest in the project. And make sure to add yourself to [Real world users](/community/world-users/).
 
 
 #### Donate 
