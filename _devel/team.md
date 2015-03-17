@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Flyspray Development Team"
+title: "Development Team"
 order: 0
 ---
 
@@ -8,12 +8,6 @@ Many people have contributed to Flyspray over the years, and while we appreciate
 
 ## Active Contributors
 
-### Florian Schmitz (aka. floele)
-
-<img src="/images/team/dog.png" class="img-circle profile-picture">
-I was born in 1987 and live in Germany. I found Flyspray when I needed a bug tracking system for [CDBurnerXP](http://cdburnerxp.se), the well known Bugzilla was no option for me since it is written in Perl and has a quite ugly appearance. Mainly because of the nice layout and the ease of use I liked Flyspray a lot. Since I didn't like a few things in 0.9.8 (especially concerning the changed layout) I started to take part in the development. By now I contributed much more than I would ever have expected (in fact I became the project manager in less than a year). I am more or less skilled in (X)HTML/XML, CSS, SQL, C#/WPF and PHP (less in Java and JS).
-
-Since end of 2006 I'm doing distance learning at the distance university in Hagen alongside the civilian service (which ended by now). Apart from coding I like good music, preferably orchestrated game music and soundtracks (yes, I know that my taste is not very conventional).
 
 ### Jordan Mendler
 
@@ -22,6 +16,40 @@ I am the President & CTO of [The Veloz Group](http://www.thevelozgroup.com), and
 
 In an effort to revitalize Flyspray, [The Veloz Group](http://www.thevelozgroup.com) has become the official sponsor of Flyspray, and will be diverting a lot of resources to its development. We are currently working on Flyspray 1.0, to be launched around new years, after which we will begin a code rewrite for Flyspray 2.0.
 
+<div style="clear:both"></div>
+### Laurent Chervet (aka Psychokiller1888)
+
+<img src="http://www.gravatar.com/avatar/78d92a3cefcbceb2364a9cc1dbec4bf2?d=mm&s=50/" class="img-circle profile-picture"> I was born in january 1984 in Switzerland. I've learned precision mecanics... Nothing to do with informatic right... But still, at the age of 6 my dad gave me one of these old computer where only Dos was possible. So I started to learn at that point. I've some experience in PHP, can handle Mysql, I know Html, been working in some teams for some Java projects.
+
+I started to use Flyspray years ago already, when I was developing some game emulator. Was the easiest, and the best looking bug tracker back then. After all these years, I came across it again, and I needed Flyspray. Took contact and asked if help was needed, and here I am!
+
+In my free time, well, I code, and also sometimes I code beside coding. Ho yeah, forgot that I also do like games, on my computer or on my Xbox One. I have nothing against a little drink with my friends as well.
+
+<div style="clear:both"></div>
+### jahto
+
+jahto hasn't yet provided any information about himself.
+
+<div style="clear:both"></div>
+### peterdd
+
+<img src="https://avatars1.githubusercontent.com/u/1839154?s=130" class="img-circle profile-picture">
+Started contributing code to Flyspray in February 2015, I'm quite new to the dev team.
+But I know Flyspray for over 10 years, first as an extension component for CMS Joomla 1.0.*.
+This year I remembered when in need for such tool and now I try to help to bring it to a production ready shape plus
+adding my own features/requirements.
+
+<div style="clear:both"></div>
+## Inactive, past or occassional contributors 
+
+### Florian Schmitz (aka. floele)
+
+<img src="/images/team/dog.png" class="img-circle profile-picture">
+I was born in 1987 and live in Germany. I found Flyspray when I needed a bug tracking system for [CDBurnerXP](http://cdburnerxp.se), the well known Bugzilla was no option for me since it is written in Perl and has a quite ugly appearance. Mainly because of the nice layout and the ease of use I liked Flyspray a lot. Since I didn't like a few things in 0.9.8 (especially concerning the changed layout) I started to take part in the development. By now I contributed much more than I would ever have expected (in fact I became the project manager in less than a year). I am more or less skilled in (X)HTML/XML, CSS, SQL, C#/WPF and PHP (less in Java and JS).
+
+Since end of 2006 I'm doing distance learning at the distance university in Hagen alongside the civilian service (which ended by now). Apart from coding I like good music, preferably orchestrated game music and soundtracks (yes, I know that my taste is not very conventional).
+
+<div style="clear:both"></div>
 ### Sean DuBois (aka. Sean-Der)
 
 <img src="/images/team/sean.png" class="img-circle profile-picture">
@@ -29,18 +57,17 @@ I was born in June 1993. I have had great luck putting random keycodes into my c
 
 In my free time I work on my vinyl collection and enjoy local restaurants. I feel comfortable in C, PHP, Python, Scheme (Read your SICP Son!), Javascript and SQL. I am always trying new stuff out and feel proud that I have learned 0.0001% of what is required to call myself a good computer programmer.  
 
-### Bryan 
-
-Loves the command line.
-
+<div style="clear:both"></div>
 ### Scott 
 
 <img src="/images/team/scott.png" class="img-circle profile-picture"> Found Flyspray from using Archlinux. Been using Flyspray ever since. Joined as a developer in January 2012 since development has been slow. I work in k-12 education managing servers, databases, training techs, and I do custom programming. I am skilled in PHP, Perl, Java, SQL, JQuery/JS, and CSS/HTML5. I enjoy web development as a job and hobby. I live in the USA.
 
-<br><br>
+<div style="clear:both"></div>
+### Bryan 
 
-## Inactive, past or occassional contributors 
+Loves the command line.
 
+<div style="clear:both"></div>
 ### Cristian Rodriguez (aka. judas_iscariote)
 
 <img src="/images/team/judas.jpg" class="img-circle profile-picture">
@@ -50,6 +77,7 @@ Im currently employed at [SUSE R&D/ Novell Inc.](http://www.suse.de) working rem
 
 In my free time I enjoy playing guitar and listening to music **madly**. :-P
 
+<div style="clear:both"></div>
 ### Tony Collins (aka. knigits)
 
 <img src="/images/team/tony-head.jpg" class="img-circle profile-picture">
@@ -59,6 +87,7 @@ Today, I am the Flyspray Project Manager and lead developer.  I also maintain th
 
 When I'm not doing Flyspray-related things, I enjoy martial arts training and trying to keep up with my young family (one wife, three kids and a budgie).
 
+<div style="clear:both"></div>
 ### Serge Volkoff (a.k.a. netWolf)
 
 ``` sql
@@ -70,12 +99,13 @@ year_of_birth     location          interests       possible_usage
 ```
 As you can guess, I'm responsible for the Flyspray DB support
 
+<div style="clear:both"></div>
 ### Konrad Roziewski 
 
 <img src="/images/team/user.png" class="img-circle profile-picture">
 Konrad hasn't yet provided any information about himself.
-<br><br><br><br><br><br>
 
+<div style="clear:both"></div>
 ### Anders Betnér 
 
 <img src="/images/team/ghost.png" class="img-circle profile-picture">
@@ -83,6 +113,7 @@ I found out about Flyspray while using jpgraph where Flyspray is the bug tracker
 
 I live in Linköping, in the south east of Sweden, with my girlfriend and two kids. Top interest (apart from the family :) would be alpine skiing.
 
+<div style="clear:both"></div>
 ### Mac Newbold 
 
 <img src="/images/team/daemon.png" class="img-circle profile-picture">
@@ -90,6 +121,7 @@ I was introduced to Flyspray in at the beginning of May 2005, and immediately fe
 
 When I'm not working on Flyspray, I'm usually working for the web-development company I co-founded, [Code Greene](http://www.codegreene.com/) . I'm a big fan of FreeBSD (thus the daemon image), PHP, MySQL, and quite a few other things. Whenever I can get away from long days at work, I love to spend time with my growing family, complete with wife, three young boys, a dog, and our small group of chickens (all hens, thank goodness). We live in the U.S.A. in the state of Utah.
 
+<div style="clear:both"></div>
 ### Pierre Habouzit 
 
 <img src="/images/team/phabouzit.png" class="img-circle profile-picture">

@@ -10,8 +10,8 @@ So you want to help. Thats great Flyspray needs needs your help.
 
 If you want to translate Flyspray into your language or improve existing translations, check out the manuals [translation](/manual/translate) page.
 
-#### Report bugs 
 
+#### Report bugs 
 
 If you've found a problem with Flyspray, we want to hear about it. If it's a very minor thing, it would be better if you quickly let us know on the [mailing list](/community/mailing-list). Also use the [mailing list](/community/mailing-list) for comments about the homepage, or the development cycle, or... anything loosely Flyspray related.  If it's something more major, we would appreciate it if you would [file a bug report](http://bugs.flyspray.org).
 
@@ -22,30 +22,21 @@ If you know PHP, you are welcome to modify Flyspray to suit your needs. If you w
 
 We realise that a lot of Flyspray's code isn't this clean or meet our own coding syle, but we are working to remove the spaghetti code a bit at a time.
 
-
-#### Create a theme 
-
-There is a shortage of [themes](/manual/creating_themes) for Flyspray. We really only maintain the XXX theme; the others are lagging behind in features. We need someone to bring the other themes up to a good standard, or create new ones from scratch.  If you have some skill with CSS, please [let us know](/community/mailing-list).
-
-
-#### Port to other databases 
-
-
-We currently only support [MySql](http://www.mysql.com/) and [PostgreSQL](http://www.postgresql.org/), but we would love to support others. If you use another database, we'd love to [hear from you](/community/mailing-list). We need reliable people to make ports to other databases, and keep them up-to-date.
+And make sure to add yourself to [Development Team](/devel/team/)!
 
 
 #### Write documentation 
 
 Although we strive to make Flyspray easy to use, it's always helpful to have documentation available.  Unfortunately we don't always have time to write both the Flyspray code and the user manual, and we prefer to concentrate on the code.  All is not lost, as anyone can [checkout](/manual/writing_documentation) and edit the [User Manual](/manual).
 
-We would like users of this wiki to write in English, and although we prefer British/Australian, we also accept American. :-)  No other languages for now, thank you.
+We would like users of this page to write in English. No other languages for now, thank you.
 
 
 #### Talk to us 
 
-
-[Tell us](/community/mailing-list) what we're doing right or wrong! It is very motivating when people take an interest in the project.
+[Tell us](/community/mailing-list) what we're doing right or wrong! It is very motivating when people take an interest in the project. And make sure to add yourself to [Real world users](/community/world-users/).
 
 
 #### Donate 
+
 Although using Flyspray is free, developing it does cost money. [Please consider donating a few dollars via Paypal to help fund development](https://www.paypal.com/xclick/business=connect@thevelozgroup.com&amp;item_name=Flyspray+Donation&amp;no_shipping=1&amp;no_note=1&amp;tax=0).

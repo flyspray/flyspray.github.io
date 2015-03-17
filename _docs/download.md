@@ -21,8 +21,13 @@ You've come to the right place. Before downloading, you might like to check the 
 <tbody>
 	<tr>
 		<td>Stable</td>
-		<td><a href="http://flyspray.org/flyspray-0.9.9.7.zip">Flyspray 0.9.9.7</a></td>
+		<td><a href="http://flyspray.org/packed/flyspray-0.9.9.7.zip">Flyspray 0.9.9.7</a></td>
 		<td><strong>SHA1SUM:</strong> 056C192BD0FB07905E537869E55D4298D384D6C9 </td>
+	</tr>
+	<tr>
+		<td>1.0 Alpha release</td>
+		<td><a href="http://flyspray.org/packed/flyspray-1.0.alpha.zip">Flyspray 1.0 Alpha</a></td>
+		<td><strong>SHA1SUM:</strong> C4C01D91F4AD3292E612E4EEAA8E4BAC284EE9FC <br/><strong>Disclaimer</strong> This is an alpha release! It may still contain bugs and is subject to changes without notice. Recommended for advanced users</td>
 	</tr>
 	<tr>
 		<td>Development</td>
@@ -35,11 +40,22 @@ You've come to the right place. Before downloading, you might like to check the 
 #### Updating from previous versions 
 
   * Create a backup of your files and database
-  * Remove **all files** except the /attachments/ directory and /flyspray.conf.php
+  * Remove **all files** except the /attachments/ , /avatars/ and /vendors/ directories and /flyspray.conf.php
   * Copy the new files to the Flyspray directory
   * make sure flyspray.conf.php is writeable by the webserver.
   * Run the upgrader at http://yourflyspray/setup/upgrade.php
   * Remove the /setup folder.
+
+
+#### Alpha releases
+
+Alpha releases may still contain critical bugs and are subject to changes without notice. Alpha packages can be updated without version changes.
+
+* We recommend these releases to advanced users
+* Downloading these versions will get you the newest features available.
+* Alpha versions contain every features that the final product will have.
+* Alpha versions usually announce the soon to be release newer version of Flyspray!
+* We await from alpha users that they return us the bugs they encounter using our bug tracker: [file bugs](http://bugs.flyspray.org)
 
 
 #### Development Release
