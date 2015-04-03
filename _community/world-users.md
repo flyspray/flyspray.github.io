@@ -8,7 +8,7 @@ Have you spotted Flyspray in the wild? Does your company or project use Flyspray
 Here are just a few:
 
  * [Dokuwiki](http://bugs.splitbrain.org/)
- * [FreePlayer](http://bugs.freeplayer.org)
+ * [Free](http://www.free.fr)
  * [Rockbox](http://www.rockbox.org/tracker) - media player software
  * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
  * [Arch Linux](http://bugs.archlinux.org/)
@@ -22,3 +22,9 @@ Here are just a few:
  * [The Veloz Group](http://www.thevelozgroup.com)
  * [DMXControl](http://www.dmxcontrol.de/flyspray/)
  * [Team Dakota - Project Spark](http://www.projectspark.com)
+ * [Grupa Marketingowa TAI Sp. z o.o](http://tai.pl)
+ * [Helicon Books](http://www.heliconbooks.com)
+ * [Industrial Info Resources](http://www.industrialinfo.com)
+ * [DOO Micro Business, Computer egineering](http://www.micro.co.rs)
+ * [Fairport Technologies](www.fairport.com)
+ * [Activision](http://www.activision.com)
