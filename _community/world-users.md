@@ -28,3 +28,4 @@ Here are just a few:
  * [DOO Micro Business, Computer egineering](http://www.micro.co.rs)
  * [Fairport Technologies](www.fairport.com)
  * [Activision](http://www.activision.com)
+ * [SIB Visions GmbH](http://www.sibvisions.com)
