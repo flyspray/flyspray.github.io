@@ -25,9 +25,9 @@ You've come to the right place. Before downloading, you might like to check the 
 		<td><strong>SHA1SUM:</strong> 056C192BD0FB07905E537869E55D4298D384D6C9 </td>
 	</tr>
 	<tr>
-		<td>1.0 Alpha release</td>
-		<td><a href="http://flyspray.org/packed/flyspray-1.0.alpha.zip">Flyspray 1.0 Alpha</a></td>
-		<td><strong>SHA1SUM:</strong> C4C01D91F4AD3292E612E4EEAA8E4BAC284EE9FC <br/><strong>Disclaimer</strong> This is an alpha release! It may still contain bugs and is subject to changes without notice. Recommended for advanced users</td>
+		<td>1.0 Alpha 2 release</td>
+		<td><a href="http://flyspray.org/packed/flyspray-1.0.alpha2.zip">Flyspray 1.0 Alpha 2</a></td>
+		<td><strong>SHA1SUM:</strong> 91beaed0f3581aa3752291553583a37b071d642f <br/><strong>Disclaimer</strong> This is an alpha release! It may still contain bugs and is subject to changes without notice. Recommended for advanced users</td>
 	</tr>
 	<tr>
 		<td>Development</td>
@@ -40,7 +40,7 @@ You've come to the right place. Before downloading, you might like to check the 
 #### Updating from previous versions 
 
   * Create a backup of your files and database
-  * Remove **all files** except the /attachments/ , /avatars/ and /vendors/ directories and /flyspray.conf.php
+  * Remove **all files** except the /attachments/ , /avatars/ , /vendors/ directories and /flyspray.conf.php
   * Copy the new files to the Flyspray directory
   * make sure flyspray.conf.php is writeable by the webserver.
   * Run the upgrader at http://yourflyspray/setup/upgrade.php
@@ -67,7 +67,8 @@ Make sure you know what you are getting into before you download the bleeding ed
  
 
 ### Past Releases
- *  **Flyspray 0.9.9.7** - 28 May 2012
+ *  **[Flyspray 1.0 Alpha](http://flyspray.org/packed/flyspray-1.0.alpha.zip)** - 16 March 2015
+ *  **[Flyspray 0.9.9.7](http://flyspray.org/packed/flyspray-0.9.9.7.zip)** - 28 May 2012
  *  **Flyspray 0.9.9.6** - 01 May 2009
  *  **Flyspray 0.9.9.5.1** - 24 March 2008
  *  **Flyspray 0.9.9.5** - 24 February 2008
