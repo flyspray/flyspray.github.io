@@ -26,10 +26,12 @@ I started to use Flyspray years ago already, when I was developing some game emu
 In my free time, well, I code, and also sometimes I code beside coding. Ho yeah, forgot that I also do like games, on my computer or on my Xbox One. I have nothing against a little drink with my friends as well.
 
 <div style="clear:both"></div>
-### jahto
+### jahto (Jouni Ahto)
 
-jahto hasn't yet provided any information about himself.
+<img src="https://avatars0.githubusercontent.com/u/10500337" class="img-circle profile-picture">
+I've been using Flyspray since 2004, because it's just a good, simple, understandable no-frills solution that covers my and a companys' needs. Started contributing in January 2015 after trying to update to 1.0 devel in git using PostgreSQL database and realized there's some work to do.
 
+Born in 1963, so I'm probably the only real greybeard in the development team. Living in Finland, enjoying gardening in summer, beer all the year.  
 <div style="clear:both"></div>
 ### peterdd
 
