@@ -31,7 +31,16 @@ In my free time, well, I code, and also sometimes I code beside coding. Ho yeah,
 <img src="https://avatars0.githubusercontent.com/u/10500337" class="img-circle profile-picture">
 I've been using Flyspray since 2004, because it's just a good, simple, understandable no-frills solution that covers my and a companys' needs. Started contributing in January 2015 after trying to update to 1.0 devel in git using PostgreSQL database and realized there's some work to do.
 
-Born in 1963, so I'm probably the only real greybeard in the development team. Living in Finland, enjoying gardening in summer, beer all the year.  
+Born in 1963, so I'm probably the only real greybeard in the development team. Living in Finland, enjoying gardening in summer, beer all the year.
+  
+``` sql
+SELECT possible_usage, final_resolution FROM BIG_KGB_ARCHIVE WHERE nickName = 'jahto'
+1 match found:
+possible_usage                             final_resolution
+-----------------------------------------  ---------------------------------
+could be used for optimizing our database  that western spy must be terminated after doing it
+```
+As you can guess, I'm interested in databases and living very near Russia.
 <div style="clear:both"></div>
 ### peterdd
 
