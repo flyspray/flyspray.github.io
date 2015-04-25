@@ -19,7 +19,7 @@ In an effort to revitalize Flyspray, [The Veloz Group](http://www.thevelozgroup.
 <div style="clear:both"></div>
 ### Laurent Chervet (aka Psychokiller1888)
 
-<img src="http://www.gravatar.com/avatar/78d92a3cefcbceb2364a9cc1dbec4bf2?d=mm&s=50/" class="img-circle profile-picture"> I was born in january 1984 in Switzerland. I've learned precision mecanics... Nothing to do with informatic right... But still, at the age of 6 my dad gave me one of these old computer where only Dos was possible. So I started to learn at that point. I've some experience in PHP, can handle Mysql, I know Html, been working in some teams for some Java projects.
+<img src="http://www.gravatar.com/avatar/78d92a3cefcbceb2364a9cc1dbec4bf2?d=mm&s=50/" class="img-circle profile-picture"> I was born in january 1984 in Switzerland. I'm a precision engineer... Nothing to do with informatic right... But still, at the age of 6 my dad gave me one of these old computer where only Dos was possible. So I started to learn at that point. I've some experience in PHP, can handle Mysql, I know Html, been working in some teams for some Java projects.
 
 I started to use Flyspray years ago already, when I was developing some game emulator. Was the easiest, and the best looking bug tracker back then. After all these years, I came across it again, and I needed Flyspray. Took contact and asked if help was needed, and here I am!
 
