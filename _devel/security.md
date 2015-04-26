@@ -10,9 +10,7 @@ This document describes how security incidents are handled since Flyspray **0.9.
 
   * Write a detailed report to <security@flyspray.org> and we will contact you privately.
 
-  * We take security so damn seriously, that we **promise** to release an update in **no more than 5 business days** if the problem reported:
-   - Is **remotely** exploitable, such as XSS(and friends), remote code execution or SQL Injection.
-   - It discloses **critically sensitive** user information (passwords, the **contents** of other files in the system..).
+  * We take security really serious and we will try our best to fix any security issues within the best timeframe we can if the security breach you report is serious.
    - All other type of issues considered 'minor' will be fixed in the next patch level release in conjunction with other bugs. 
   * We will write an FSA (Flyspray Security Announcement) describing the vulnerability briefly **after** the release of a minor, patch level release. the FSA may contain source code patch against the previous release.
   * We will thank you for your report and give proper credits. 
