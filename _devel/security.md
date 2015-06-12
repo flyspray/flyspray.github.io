@@ -25,10 +25,11 @@ This document describes how security incidents are handled since Flyspray **0.9.
   * 2007-03-16 [Admin authentication bypass](/devel/security/fsa1)
   
 
+<!--
 ### Security problems archive 
 
 You can read a list of known security problems on [Flsypray's Secunia.com page](http://secunia.com/product/5995/?task=advisories)
-
+-->
 
 
 
