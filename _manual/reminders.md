@@ -28,7 +28,7 @@ Flyspray 1.0 uses schedule.php called by a cronjob (or from command line for tes
 ```
 
 Check if the command line version you setup in the crontab is similiar to the php version of the webserver.
-Some hosters provide different versions of php on the command line like 'php-5.4'. Find out by typing php [TAB][TAB] (shell autocompletion) to see which php versions are available there.
+Some hosters provide different versions of php on the command line like 'php-5.4'. Find out by typing php TAB TAB  (shell autocompletion) to see which php versions are available there.
 
 #### Reminder on Windows
 
