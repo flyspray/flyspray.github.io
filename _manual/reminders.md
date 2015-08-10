@@ -17,7 +17,7 @@ Flyspray 1.0 uses schedule.php called by a cronjob (or from command line for tes
 
 ```crontab
 # min hour dayofmonth month dayofweek  command
-# check every 7th minute on every hour
+# check in the 7th minute on every hour
 7  * * * * php flyspray/schedule.php
 ```
 
