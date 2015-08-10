@@ -11,8 +11,30 @@ While viewing a task, click the Reminders Tab heading, and you will see a list o
 
 <img src="/images/manual/addreminder.jpg" class="img-responsive" alt="Reminder Tab">
 
+### Enabling reminder support in Flyspray 1.0
 
-### Enabling reminder support in Flyspray 
+Flyspray 1.0 uses schedule.php called by a cronjob (or from command line for testing). Here are 2 crontab examples for setting it up:
+
+```crontab
+# min hour dayofmonth month dayofweek  command
+# check every 7th minute on every hour
+7  * * * * php flyspray/schedule.php
+```
+
+```crontab
+# min hour dayofmonth month dayofweek  command
+# check every 5 minutes
+*/5 * * * * php flyspray/schedule.php
+```
+
+Check if the command line version you setup in the crontab is similiar to the php version of the webserver.
+Some hosters provide different versions of php on the command line like 'php-5.4'. Find out by typing php [TAB][TAB] (shell autocompletion) to see which php versions are available there.
+
+#### Reminder on Windows
+
+Untested: Setup the regular invoking of schedule.php by using the Task Scheduler of Windows.
+
+### Enabling reminder support in Flyspray < 1.0
 
 Flyspray has a background daemon to regularly trigger various scripts. You need two things to make it work:
 
