@@ -19,8 +19,8 @@ To add a user to the notification list for a task start typing there name in the
 
 
 ### Tips 
-  * Notifications are never sent to the user making the change.  The user already knows what action they made, so Flyspray doesn't fill their inbox with information they already know.
-  * Notifications are **always** sent to the person who has been assigned the task, regardless of whether they are on the task's notification list or not.  Of course, this doesn't over-ride the previous tip - if the assignee makes a change, they don't receive the notification.
+  * Notifications are by default not sent to the user making the change.  The user already knows what action they made, so Flyspray doesn't fill their inbox with information they already know. This behavior can be changed by the user on his profile page.
+  * Notifications are **always** sent to the person who has been assigned the task, regardless of whether they are on the task's notification list or not.
 
 
 ### Technical Information 
