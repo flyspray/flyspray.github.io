@@ -4,7 +4,7 @@ title: "Contribute"
 order: 10
 ---
 
-So you want to help. Thats great Flyspray needs needs your help.
+So you want to help. Thats great, Flyspray needs your help.
 
 #### Translate 
 
@@ -20,10 +20,7 @@ If you've found a problem with Flyspray, we want to hear about it. If it's a ver
 
 If you know PHP, you are welcome to modify Flyspray to suit your needs. If you want to share your modifications, please fork the [Flyspray Github repo](/manual/pull_request) and issue a pull request. Be prepared to discuss your patch when we ask you about it. When designing your PHP code, follow the **[current coding style](/manual/code_style)**. 
 
-We realise that a lot of Flyspray's code isn't this clean or meet our own coding syle, but we are working to remove the spaghetti code a bit at a time.
-
 And make sure to add yourself to [Development Team](/devel/team/)!
-
 
 #### Write documentation 
 
