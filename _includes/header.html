@@ -14,11 +14,17 @@
 
 
 <h4>
-	<a class="brand" href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a>
-	{% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}
+	<div style="float:left">
+		<a class="brand" href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a>
+		{% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}
+
+		<div style="float:left; padding-top: 30px; font-size: 12px; font-weight: normal">Sponsored by 
+			<b><a href="https://www.thevelozgroup.com">The Veloz Group</a></b>
+		</div>
+	</div>
 
 	<!-- Flyspray Banner -->
-	<div class="adsense">
+	<div class="adsense" style="float:right">
 		<ins class="adsbygoogle"
 		     style="display:block"
 		     data-ad-client="ca-pub-1201923297792693"
@@ -27,8 +33,5 @@
 		<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-	</div>
-	<div style="float:left; padding-top: 30px; font-size: 12px; font-weight: normal">Sponsored by 
-		<b><a href="https://www.thevelozgroup.com">The Veloz Group</a></b>
 	</div>
 </h4>
