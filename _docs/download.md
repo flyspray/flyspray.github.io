@@ -27,7 +27,7 @@ You've come to the right place. Before downloading, you might like to check the 
 	<tr>
 		<td>1.0 Alpha 2 release</td>
 		<td><a href="http://flyspray.org/packed/flyspray-1.0.alpha2.zip">Flyspray 1.0 Alpha 2</a></td>
-		<td><strong>SHA1SUM:</strong> 91beaed0f3581aa3752291553583a37b071d642f <br/><strong>Disclaimer</strong> This is an alpha release! It may still contain bugs and is subject to changes without notice. Recommended for advanced users</td>
+		<td>04 April 2015<br /><strong>SHA1SUM:</strong> 91beaed0f3581aa3752291553583a37b071d642f <br/><strong>Disclaimer</strong> This is an alpha release! It may still contain bugs and is subject to changes without notice. Recommended for advanced users</td>
 	</tr>
 	<tr>
 		<td>Development</td>
