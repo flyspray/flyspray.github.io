@@ -12,7 +12,6 @@ This document describes the installation process for setting up **Flyspray versi
 
 ### Preparing for install 
   * Install PHP, MySQL or PostgreSQL, and a web server (like Apache). The latest versions of each should work nicely.
-  * For MySQL installations, it's a good idea to install the MySQL Administrator and MySQL Query Browser. Both can be found here: http://dev.mysql.com/downloads/gui-tools/5.0.html
   * In the php.ini file, make sure that the extension php_mysqli.dll is uncommented. The tutorial neglects to include this step.
   * Grab the latest [stable release](/docs/download)
   	 * To use the development version follow [installing from Github](/manual/devel_version)
