@@ -26,9 +26,9 @@ You've come to the right place. Before downloading, you might like to check the 
 	</tr>
 	<tr>
 		<td>1.0 Beta release</td>
-		<td><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip">https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip</a>as .zip <br>or as .tar.gz<br><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz</a>
+		<td><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip">https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip</a><br>as .zip <br>or as .tar.gz<br><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz</a>
 		</td>
-		<td>First Flyspray 1.0 Beta release, but also a security release.</td>
+		<td>First Flyspray 1.0 Beta release, but also a security release. Does not yet contains package dependencies, but the web installer guides you through the install of required packages using composer.</td>
 	</tr>
 	<tr>
 		<td>Development</td>
