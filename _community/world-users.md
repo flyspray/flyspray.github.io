@@ -23,6 +23,7 @@ Here are just a few:
  * [DMXControl](http://www.dmxcontrol.de/flyspray/)
  * [Grupa Marketingowa TAI Sp. z o.o](http://tai.pl)
  * [Helicon Books](http://www.heliconbooks.com)
+ * [Simple Shop](http://www.simple-shop.si/bt/)
  * [Industrial Info Resources](http://www.industrialinfo.com)
  * [DOO Micro Business, Computer egineering](http://www.micro.co.rs)
  * [Fairport Technologies](www.fairport.com)
