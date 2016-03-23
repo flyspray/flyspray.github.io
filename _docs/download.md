@@ -20,20 +20,16 @@ You've come to the right place. Before downloading, you might like to check the 
 </thead>
 <tbody>
 	<tr>
-		<td>Stable</td>
-		<td><a href="http://flyspray.org/packed/flyspray-0.9.9.7.zip">Flyspray 0.9.9.7</a></td>
-		<td><strong>SHA1SUM:</strong> 056C192BD0FB07905E537869E55D4298D384D6C9 </td>
-	</tr>
-	<tr>
-		<td>1.0 Beta release</td>
-		<td><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip">https://github.com/Flyspray/flyspray/archive/v1.0-beta.zip</a><br>as .zip <br>or as .tar.gz<br><a href="https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-beta.tar.gz</a>
+		<td>1.0 RC release</td>
+		<td><a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip</a><br>as .zip <br>or as .tar.gz<br><a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
 		</td>
-		<td>First Flyspray 1.0 Beta release, but also a security release. Does not yet contains package dependencies, but the web installer guides you through the install of required packages using composer.</td>
+		<td>Current recommended stable release.<br/>
+		For people who cannot run composer on command line on their hosting: releases that contain all required 3rd party libraries in one .zip for different versions of PHP will follow.</td>
 	</tr>
 	<tr>
 		<td>Development</td>
 		<td><a href="https://github.com/flyspray/flyspray">Flyspray @ Github</a></td>
-		<td> See <a href="/manual/devel_version">Installing from Github</a> - Not recommended for production</td>
+		<td> See <a href="/manual/devel_version">Installing from Github</a> - not recommended for production</td>
 	</tr>
 </tbody>
 </table>
@@ -69,7 +65,7 @@ Make sure you know what you are getting into before you download the bleeding ed
 ### Past Releases
  *  **[Flyspray 1.0 Alpha 2](http://flyspray.org/packed/flyspray-1.0.alpha2.zip)** - 04 April 2015
  *  **[Flyspray 1.0 Alpha](http://flyspray.org/packed/flyspray-1.0.alpha.zip)** - 16 March 2015
- *  **[Flyspray 0.9.9.7](http://flyspray.org/packed/flyspray-0.9.9.7.zip)** - 28 May 2012
+ *  **[Flyspray 0.9.9.7](http://flyspray.org/packed/flyspray-0.9.9.7.zip)** - 28 May 2012, <strong>SHA1SUM:</strong> 056C192BD0FB07905E537869E55D4298D384D6C9
  *  **Flyspray 0.9.9.6** - 01 May 2009
  *  **Flyspray 0.9.9.5.1** - 24 March 2008
  *  **Flyspray 0.9.9.5** - 24 February 2008
