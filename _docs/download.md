@@ -30,10 +30,10 @@ You've come to the right place. Before downloading, you might like to check the 
 		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php53.tgz">flyspray-1.0-rc1_php53.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.4: 
 		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.zip</a>
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
+		<br/><a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.5:
 		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.zip</a>
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
+		<br/><a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.6: planned
 		</td>
 		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP</td>
