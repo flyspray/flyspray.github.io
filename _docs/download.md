@@ -20,17 +20,34 @@ You've come to the right place. Before downloading, you might like to check the 
 </thead>
 <tbody>
 	<tr>
+		<td rowspan="2">1.0 RC1 release</td>
+		<td>As .zip: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip</a><br/>As .tar.gz: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
+		</td>
+		<td>Current recommended stable release</td>
+	</tr>
+	<tr>
+		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: 
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php53.tgz">flyspray-1.0-rc1_php53.tgz</a>
+		<br/><br/>Precompiled with 3rd party libs for PHP5.4: 
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.zip</a>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
+		<br/><br/>Precompiled with 3rd party libs for PHP5.5:
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.zip</a>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
+		<br/><br/>Precompiled with 3rd party libs for PHP5.6: planned
+		</td>
+		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP</td>
+	</tr>
+	<tr>
 		<td rowspan="2">1.0 RC release</td>
 		<td>As .zip: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip</a><br/>As .tar.gz: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
 		</td>
-		<td>Current recommended stable release.</td>
+		<td>First "release candit" release</td>
 	</tr>
 	<tr>
 		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: <a href="http://flyspray.org/packed/flyspray-1.0-rc_php533.tgz">flyspray-1.0-rc_php533.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.4: planned
-		<br/>Precompiled with 3rd party libs for PHP5.6: planned
 		</td>
-		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP will follow.</td>
+		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP</td>
 	</tr>
 	<tr>
 		<td>Development</td>
