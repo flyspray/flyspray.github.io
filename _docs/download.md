@@ -31,11 +31,13 @@ You've come to the right place. Before downloading, you might like to check the 
 		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: 
 		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php53.tgz">flyspray-1.0-rc1_php53.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.4: 
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.zip</a>
-		<br/><a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.zip">flyspray-1.0-rc1_php54.zip</a>
+		<br/>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.5:
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.zip</a>
-		<br/><a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.zip">flyspray-1.0-rc1_php55.zip</a>
+		<br/>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
 		<br/><br/>Precompiled with 3rd party libs for PHP5.6:
 		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php56.tgz">flyspray-1.0-rc1_php56.tgz</a>
 		</td>
