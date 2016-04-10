@@ -21,7 +21,9 @@ You've come to the right place. Before downloading, you might like to check the 
 <tbody>
 	<tr>
 		<td rowspan="2">1.0 RC1 release</td>
-		<td>As .zip: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip</a><br/>As .tar.gz: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
+		<td>As .zip:<br/>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip</a><br/>As .tar.gz:<br/>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
 		</td>
 		<td>Current recommended stable release</td>
 	</tr>
