@@ -16,11 +16,11 @@ title: "Flyspray: The bug killer!"
 
 <div class="row">
 	<div class="col-md-7">
-		<h3>News</h3>
+		<h2>News</h2>
 		{% for news in site.categories["news"] limit:4 %}
-				<h4><a href="{{ site.baseurl }}{{ news.url }}">{{ news.title }}</a></h4>
-				{{ news.summary }}
-				<hr>
+			<h3><a href="{{ site.baseurl }}{{ news.url }}">{{ news.title }}</a></h3>
+			{{ news.date }} {{ news.summary }}
+			<hr>
 	        {% endfor %}
 	</div>
 	<div class="col-md-5">
@@ -43,10 +43,15 @@ title: "Flyspray: The bug killer!"
 				<li>Dependency graphs</li>
 				<li>Activity Bars for projects and user activity</li>
 				<li>Comments</li>
-				<li>Roadmaps</li>
-				<li>Powerful permission system with customizable global and project based roles.</li>
-				<li>Filter and export of tasks as CSV for example usage by spreadsheet programs.</li>
-				<li>Beta (for brave users): mass operation and oauth2 logins (Facebook, Google,..)
+				<li>Roadmaps ('milestones', 'versions')</li>
+				<li>Powerful permission system with customizable global and project based roles</li>
+				<li>Filter and export of tasks as CSV for example usage by spreadsheet programs</li>
+				<li>optional Single Sign-on using OAuth2 (Facebook, Google, ..)</li>
+				<!-- 
+				people can activate mass operations on their own risc, needs more validations checks.
+				(single user or small setups who do not need email notifications or history protocols of each task change)
+				-->
+				<!-- <li>mass operation</li> -->
 			</ul>
 		</div>
 	</div>
