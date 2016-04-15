@@ -16,7 +16,7 @@ title: "Flyspray: The bug killer!"
 
 <div class="row">
 	<div class="col-md-7">
-		<h3>News<h3>
+		<h3>News</h3>
 		{% for news in site.categories["news"] limit:4 %}
 				<h4><a href="{{ site.baseurl }}{{ news.url }}">{{ news.title }}</a></h4>
 				{{ news.summary }}
