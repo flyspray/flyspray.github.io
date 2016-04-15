@@ -19,7 +19,7 @@ title: "Flyspray: The bug killer!"
 		<h2>News</h2>
 		{% for news in site.categories["news"] limit:4 %}
 			<h3><a href="{{ site.baseurl }}{{ news.url }}">{{ news.title }}</a></h3>
-			{{ news.date }} {{ news.summary }}
+			{{ news.date | date: "%Y-%m-%d" }}: {{ news.summary }}
 			<hr>
 	        {% endfor %}
 	</div>
