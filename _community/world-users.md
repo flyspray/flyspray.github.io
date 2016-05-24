@@ -7,25 +7,32 @@ Have you spotted Flyspray in the wild? Does your company or project use Flyspray
 
 Here are just a few:
 
- * [Dokuwiki](http://bugs.splitbrain.org/)
  * [Free](http://www.free.fr)
  * [Rockbox](http://www.rockbox.org/tracker) - media player software
- * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
  * [Arch Linux](http://bugs.archlinux.org/)
  * [CDBurnerXP](https://bugs.cdburnerxp.se)
- * [Arcade Buffs]([http://www.arcadebuffs.com)
- * [Beverly Hills Auto Group](http://www.bhautogroup.com)
- * [Beverly Hills Chairs](http://www.beverlyhillschairs.com)
- * [Briarmont & Co](http://www.briarmontcompany.com)
- * [Custom Tobacco](http://www.customtobacco.com)
- * [Smith & Walker Tools](http://www.smithandwalkertools.com)
- * [The Veloz Group](http://www.thevelozgroup.com)
+ * [The Veloz Group](http://www.thevelozgroup.com), including  
+[Arcade Buffs](http://www.arcadebuffs.com)   
+[Beverly Hills Auto Group](http://www.bhautogroup.com)  
+[Beverly Hills Chairs](http://www.beverlyhillschairs.com)
+[Briarmont & Co](http://www.briarmontcompany.com)  
+[Custom Tobacco](http://www.customtobacco.com)  
+[Smith & Walker Tools](http://www.smithandwalkertools.com)
  * [DMXControl](http://www.dmxcontrol.de/flyspray/)
  * [Grupa Marketingowa TAI Sp. z o.o](http://tai.pl)
  * [Helicon Books](http://www.heliconbooks.com)
  * [Simple Shop](http://www.simple-shop.si/bt/)
  * [Industrial Info Resources](http://www.industrialinfo.com)
- * [DOO Micro Business, Computer egineering](http://www.micro.co.rs)
+ * [DOO Micro Business, Computer engineering](http://www.micro.co.rs)
  * [Fairport Technologies](www.fairport.com)
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
+ * [Conlite CMS](http://dev.conlite.org/tickets) - the lightweight way to manage your content ![Conlite CMS](http://conlite.org/pub/static/images/cl-logo.png)
+
+
+> Why ConLite uses Flyspray:
+> Flyspray is easy to install and easy to use. Also Flyspray gives us all we need to handle bugs and tickets for our growing community. Every ConLite user may register to our instance of Flyspray to send us bugs or enhancements. Flyspray let us manage this request in an easy and effectiv way.
+ 
+This projects moved from a self hosted Flyspray to github (most around 2014), only keeping old tasks in their Flyspray install:
+ * [Dokuwiki](http://bugs.splitbrain.org/)
+ * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
