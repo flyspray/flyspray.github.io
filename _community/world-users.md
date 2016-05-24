@@ -28,12 +28,12 @@ Here are just a few:
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
  * [Conlite CMS](http://dev.conlite.org/tickets) ![Conlite CMS](http://conlite.org/pub/static/images/cl-logo.png) - the lightweight way to manage your content 
- * [Koalabs](http://www.koalabs-studio.com) ![koalabs logo](http://www.koalabs-studio.com/wp-content/uploads/2014/12/koalabs_logo_6.jpg) - KOALABS specializes in cross-platform applications and 3D adventure video games. We use Flyspray as our main bugtracker for our products. 
-
 
 > Why ConLite uses Flyspray:
 > Flyspray is easy to install and easy to use. Also Flyspray gives us all we need to handle bugs and tickets for our growing community. Every ConLite user may register to our instance of Flyspray to send us bugs or enhancements. Flyspray let us manage this request in an easy and effectiv way.
- 
+
+  * [Koalabs](http://www.koalabs-studio.com) ![koalabs logo](http://www.koalabs-studio.com/wp-content/uploads/2014/12/koalabs_logo_6.jpg) - KOALABS specializes in cross-platform applications and 3D adventure video games. We use Flyspray as our main bugtracker for our products. 
+
 These projects moved from a self hosted Flyspray to github (most around 2014), only keeping old tasks in their Flyspray install:
 
  * [Dokuwiki](http://bugs.splitbrain.org/)
