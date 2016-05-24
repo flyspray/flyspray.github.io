@@ -27,14 +27,14 @@ Here are just a few:
  * [Fairport Technologies](http://www.fairport.com)
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
- * <a href="www.publicis-technology.com"><img src="http://www.publicis-technology.com/images/LogoPublicis.png" width="200px"> Publicis Technology</a>
+ * <a href="http://www.publicis-technology.com"><img src="http://www.publicis-technology.com/images/LogoPublicis.png" width="200px"> Publicis Technology</a>
  * <a href="https://bugs.openttd.org/"><img src="http://media.openttd.org/media/images/layout/openttd-64.gif"> OpenTTD</a> is an open source simulation game based upon Transport Tycoon Deluxe 
  * <a href="http://dev.conlite.org/tickets"><img src="http://conlite.org/pub/static/images/cl-logo.png" width="100px"> Conlite CMS</a> - the lightweight way to manage your content 
 
 > Why ConLite uses Flyspray:
 > Flyspray is easy to install and easy to use. Also Flyspray gives us all we need to handle bugs and tickets for our growing community. Every ConLite user may register to our instance of Flyspray to send us bugs or enhancements. Flyspray let us manage this request in an easy and effectiv way.
 
-  * <a href="www.mol.pl"><img src="http://www.mol.pl/mol/obrazki/logo-mol_budujemy_200.png" width="100px"> MOL sp. z o.o.</a>
+  * <a href="http://www.mol.pl"><img src="http://www.mol.pl/mol/obrazki/logo-mol_budujemy_200.png" width="100px"> MOL sp. z o.o.</a>
 
 > We have 4 installations of Flyspray in our company. One has a custom skin that is designed specifically for non-technical users. In this installation new task form has separate fields for entering steps, expected and actual result. This is all merged into standard task description. On our side we use standard Flyspray installation connected to the same database. This is used by our IT stuff to provide support for customers only. We call it Bibz.
 
