@@ -27,7 +27,8 @@ Here are just a few:
  * [Fairport Technologies](www.fairport.com)
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
- * [Conlite CMS](http://dev.conlite.org/tickets) - the lightweight way to manage your content ![Conlite CMS](http://conlite.org/pub/static/images/cl-logo.png)
+ * [Conlite CMS](http://dev.conlite.org/tickets) ![Conlite CMS](http://conlite.org/pub/static/images/cl-logo.png) - the lightweight way to manage your content 
+ * [Koalabs](http://www.koalabs-studio.com) ![koalabs logo](http://www.koalabs-studio.com/wp-content/uploads/2014/12/koalabs_logo_6.jpg) - KOALABS specializes in cross-platform applications and 3D adventure video games. We use Flyspray as our main bugtracker for our products. 
 
 
 > Why ConLite uses Flyspray:
