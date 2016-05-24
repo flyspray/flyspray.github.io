@@ -28,7 +28,7 @@ Here are just a few:
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
  * <a href="www.publicis-technology.com"><img src="http://www.publicis-technology.com/images/LogoPublicis.png" width="200px"> Publicis Technology</a>
- * <a href="https://bugs.openttd.org/"><img src="http://media.openttd.org/media/images/layout/openttd-64.gif"> OpenTTD]</a> 
+ * <a href="https://bugs.openttd.org/"><img src="http://media.openttd.org/media/images/layout/openttd-64.gif"> OpenTTD</a> OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe 
  * <a href="http://dev.conlite.org/tickets"><img src="http://conlite.org/pub/static/images/cl-logo.png" width="100px"> Conlite CMS</a> - the lightweight way to manage your content 
 
 > Why ConLite uses Flyspray:
