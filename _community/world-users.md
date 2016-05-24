@@ -9,7 +9,7 @@ Here are just a few:
 
  * [Free](http://www.free.fr)
  * [Rockbox](http://www.rockbox.org/tracker) - media player software
- * <a href="http://bugs.archlinux.org" style="inline-block;background-color:#333;"><img src="https://bugs.archlinux.org/themes/ArchLinux/archlogo.png"></a><a href="http://bugs.archlinux.org"> Arch Linux</a> a lightweight and flexible Linux® distribution that tries to Keep It Simple
+ * <a href="http://bugs.archlinux.org" style="display:inline-block;background-color:#333;"><img src="https://bugs.archlinux.org/themes/ArchLinux/archlogo.png"></a><a href="http://bugs.archlinux.org"> Arch Linux</a> a lightweight and flexible Linux® distribution that tries to Keep It Simple
  * [CDBurnerXP](https://bugs.cdburnerxp.se)
  * [The Veloz Group](http://www.thevelozgroup.com), including  
 [Arcade Buffs](http://www.arcadebuffs.com)   
