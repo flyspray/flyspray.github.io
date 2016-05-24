@@ -43,8 +43,7 @@ Look at [understanding permissions](/manual/understanding_permissions) to find o
 
 <dl>
 	<dt>Theme</dt>
-	<dd>The colour scheme and layout for this project. See [themes](/manual/themes)</dd>
-
+	<dd>The colour scheme and layout for this project. See <a href="/manual/themes">Themes</a></dd>
 	<dt>Default entry page</dt>
 	<dd>You to choose which view is displayed when opening a project. Tasklist and roadmap should be clear, "top level view" is a little summary for the project, also called "overview".
 	</dd>
@@ -54,7 +53,9 @@ Look at [understanding permissions](/manual/understanding_permissions) to find o
 
 <dl>
 	<dt>Email address & Jabber ID</dt>  
-	<dd>Where you can enter addresses to be notified when a task changes, and the events that trigger a notification.  Any address put in these fields will be notified when a new task opens, is modified, comments/files added, tasks closing etc.  If you want more than one address, separate them with a comma or semicolon.  This feature could be useful for a mailing list, or to ensure someone in particular is notified when they're not the default category owner.
+	<dd>Where you can enter addresses to be notified when a task changes, and the events that trigger a notification.  Any address put in these fields will be notified when a new task opens, is modified, comments/files added, tasks closing etc.
+	
+	(2016-05-24 Note by peterdd: Noticed the feature was never completed. Now planned for FS1.1 with some refactoring required for this feature. See https://bugs.flyspray.org/1812 ) <del>If you want more than one address, separate them with a semicolon. This feature could be useful for a mailing list, or to ensure someone in particular is notified when they're not the default category owner.</del>
 	</dd>
 
 	<dt>Notification types</dt>
