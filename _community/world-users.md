@@ -24,7 +24,7 @@ Here are just a few:
  * [Simple Shop](http://www.simple-shop.si/bt/)
  * [Industrial Info Resources](http://www.industrialinfo.com)
  * [DOO Micro Business, Computer engineering](http://www.micro.co.rs)
- * [Fairport Technologies](www.fairport.com)
+ * [Fairport Technologies](http://www.fairport.com)
  * [Activision](http://www.activision.com)
  * [SIB Visions GmbH](http://www.sibvisions.com)
  * <a href="www.publicis-technology.com"><img src="http://www.publicis-technology.com/images/LogoPublicis.png" width="200px"> Publicis Technology</a>
