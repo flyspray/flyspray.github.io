@@ -33,6 +33,7 @@ Here are just a few:
 > Why ConLite uses Flyspray:
 > Flyspray is easy to install and easy to use. Also Flyspray gives us all we need to handle bugs and tickets for our growing community. Every ConLite user may register to our instance of Flyspray to send us bugs or enhancements. Flyspray let us manage this request in an easy and effectiv way.
  
-This projects moved from a self hosted Flyspray to github (most around 2014), only keeping old tasks in their Flyspray install:
+These projects moved from a self hosted Flyspray to github (most around 2014), only keeping old tasks in their Flyspray install:
+
  * [Dokuwiki](http://bugs.splitbrain.org/)
  * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
