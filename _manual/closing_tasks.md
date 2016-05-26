@@ -12,7 +12,8 @@ By default the task progress is set to 100% unless you deselect that option.
 <h3>Special close reasons</h3>
 
 <h4>Duplicate task</h4>
-<img src="/images/manual/closetask_duplicates.png" class="img-responsive" alt="close task and mark as duplicate of another task" title="screenshot from Flyspray 1.0-rc1">
+<img src="/images/manual/closetask_duplicates.png" class="img-responsive" alt="close task and mark as duplicate of another task"  title="screenshot from Flyspray 1.0-rc1">
+
 See also [Related Tasks](/manual/related_tasks) section of the manual.
 
 <h3>Deleting tasks</h3>
