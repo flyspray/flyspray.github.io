@@ -9,7 +9,12 @@ If you have the permission to close a task, a close task button is shown on the 
 
 By default the task progress is set to 100% unless you deselect that option.
 
-**Deleting tasks**
+<h3>Special close reasons</h3>
+
+<h4>Duplicate task</h4>
+See **Related Tasks** section of the manual
+
+<h3>Deleting tasks</h3>
 
 It is not possible to delete a task direct. This is a an explicit design decision made by the creators many years ago 
 to keep possible QA-staff happy in companies. (Editor: if I understand the discussions right on bugs.flyspray.org)
