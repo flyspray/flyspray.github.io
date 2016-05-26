@@ -12,7 +12,7 @@ By default the task progress is set to 100% unless you deselect that option.
 <h3>Special close reasons</h3>
 
 <h4>Duplicate task</h4>
-See **Related Tasks** section of the manual
+See [Related Tasks](/manual/related_tasks) section of the manual
 
 <h3>Deleting tasks</h3>
 
