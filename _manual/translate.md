@@ -5,7 +5,7 @@ manual: cont
 order: 50
 ---
 
-<h2>Help Flyspray to get localized to your native language</h2>
+<h3>Help Flyspray to get localized to your native language</h3>
 
 Want your language strings updated with the next Flyspray release? Pick your language file on https://github.com/Flyspray/flyspray/tree/master/lang , edit and make a pull request.
 
