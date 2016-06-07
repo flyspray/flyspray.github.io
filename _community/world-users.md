@@ -48,3 +48,4 @@ These projects moved from a self hosted Flyspray to github (most around 2014), o
 
  * [Dokuwiki](http://bugs.splitbrain.org/)
  * [IRSSI](http://bugs.irssi.org) - a terminal based IRC client for UNIX systems
+ * <a href="https://bugs.isoft-linux.org"><img src="http://i-soft.com.cn/public/website/images/logo.jpg"> iSoft Linux</a> is an open source linux operating system in China.
