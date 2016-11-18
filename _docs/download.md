@@ -10,6 +10,8 @@ You've come to the right place. Before downloading, you might like to check the 
 
 ### Official Flyspray Downloads
 
+Source and since Flyspray 1.0-rc4 also complete build available on https://github.com/Flyspray/flyspray/releases
+
 <table class="table">
 <thead>
 	<tr>
