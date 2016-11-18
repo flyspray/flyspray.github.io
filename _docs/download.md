@@ -20,39 +20,21 @@ You've come to the right place. Before downloading, you might like to check the 
 </thead>
 <tbody>
 	<tr>
-		<td rowspan="2">1.0 RC1 release</td>
-		<td>As .zip:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc1.zip</a><br/>As .tar.gz:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc1.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
+		<td rowspan="2">1.0-rc4 release</td>
+		<td colspan="2">Source as .zip:<br/>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc4.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc4.zip</a><br/>as .tar.gz:<br/>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc4.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc4.tar.gz</a>
 		</td>
-		<td>Current recommended stable release</td>
 	</tr>
 	<tr>
 		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: 
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php53.tgz">flyspray-1.0-rc1_php53.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.4: 
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.zip">flyspray-1.0-rc1_php54.zip</a>
-		<br/>
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php54.tgz">flyspray-1.0-rc1_php54.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.5:
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.zip">flyspray-1.0-rc1_php55.zip</a>
-		<br/>
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php55.tgz">flyspray-1.0-rc1_php55.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.6:
-		<a href="http://flyspray.org/packed/flyspray-1.0-rc1_php56.tgz">flyspray-1.0-rc1_php56.tgz</a>
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc4_php53.tgz">flyspray-1.0-rc4_php53.tgz</a>
+		<br/><br/>Precompiled with 3rd party libs for PHP5.4 and PHP5.5: 
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc4_php54.tgz">flyspray-1.0-rc4_php54.tgz</a>
+		<br/><br/>Precompiled with 3rd party libs for PHP5.6 and PHP7:
+		<a href="http://flyspray.org/packed/flyspray-1.0-rc4_php56.tgz">flyspray-1.0-rc4_php56.tgz</a>
 		</td>
-		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP</td>
-	</tr>
-	<tr>
-		<td rowspan="2">1.0 RC release</td>
-		<td>As .zip: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc.zip</a><br/>As .tar.gz: <a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc.tar.gz</a>
-		</td>
-		<td>First "release candit" release</td>
-	</tr>
-	<tr>
-		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: <a href="http://flyspray.org/packed/flyspray-1.0-rc_php533.tgz">flyspray-1.0-rc_php533.tgz</a>
-		</td>
-		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .zip or .tgz for different versions of PHP</td>
+		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .tgz for different versions of PHP</td>
 	</tr>
 	<tr>
 		<td>Development</td>
