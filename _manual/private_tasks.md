@@ -10,10 +10,11 @@ Although you are able to deny anonymous users the ability to view tasks, often t
 
 ### Overview
 Project Managers can mark a task private simply by clicking the *Make Private* button on a task details page. Once that is done, the task can only be viewed by the following people:
-  * Administrators
-  * Project managers
-  * The user who opened the task
-  * Anyone assigned to the task
+
+* Administrators
+* Project managers
+* The user who opened the task
+* Anyone assigned to the task
 
 Project Managers have the ability to view all tasks in their project, regardless of privacy settings.
 
