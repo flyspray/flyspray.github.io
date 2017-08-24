@@ -6,7 +6,7 @@ order: 0
 ### Flyspray mailing list 
 We have a single mailing list, used for both developer communication as well as end-user support and requests.  If you would like to contact the developers, or secretly listen-in to their discussions, we encourage you to sign up for the list. We will not send you any advertising or junk email, and you may unsubscribe at any time. Please note that you must use your subscribed address to send any email to the list, or it will be rejected.
 
-<a class="btn btn-info btn-l" href="http://groups.google.com/group/flyspray?hl=en">Visit the Flyspay mailing list</a>
+<a class="btn btn-info btn-l" href="http://groups.google.com/group/flyspray?hl=en">Visit the Flyspray mailing list</a>
 
 
 - - -
@@ -17,7 +17,7 @@ We have a single mailing list, used for both developer communication as well as 
 
 To ensure that we all get along without aggrevating each other senseless, please read the following guidelines. (These were mostly copied from the [excellent TortoiseSVN website](http://tortoisesvn.tigris.org/list_etiquette.html)).
 
-  * Read the [faq](/doc/faq) and [manual](/doc/manual).
+  * Read the [faq](/docs/faq) and [manual](/manual).
   * Answers go only to the mailing-list. If you don't want to subscribe to the list, you can read the answers [online](http://groups.google.com/group/flyspray?hl=en).
   * Don't email the development team directly unless you want to pay for support.
   * Answer below the quote.
