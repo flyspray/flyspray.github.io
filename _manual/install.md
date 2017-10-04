@@ -21,8 +21,14 @@ This document describes the installation process for setting up **Flyspray versi
   
 ```
 # mysql -u root -p
-  > CREATE DATABASE flyspray DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci; 
-  > GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,DROP,INDEX,ALTER,CREATE TEMPORARY TABLES ON flyspray.*
+  > CREATE DATABASE flyspray DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+```
+
+If your MySQL version is below 5.5.3, utf-8 is only partially supported by MySQL server. (No 💩 emoji)
+Avoid this, only old mysql servers: CREATE DATABASE flyspray DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+
+```
+ > GRANT SELECT,INSERT,UPDATE,DELETE,CREATE,DROP,INDEX,ALTER,CREATE TEMPORARY TABLES ON flyspray.*
           TO flysprayuser@localhost IDENTIFIED BY 'yourpassword'; 
   > quit 
   # mysqladmin -u root -p reload
