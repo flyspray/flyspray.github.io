@@ -23,7 +23,7 @@ Source and since Flyspray 1.0-rc4 also complete build available on https://githu
 <tbody>
 	<tr>
 		<td>1.0-rc6 release</td>
-		<td colspan="2">Source as .zip:<br/>
+		<td>Source as .zip:<br/>
 		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc6.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc6.zip</a><br/>as .tar.gz:<br/>
 		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc6.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc6.tar.gz</a>
 		</td>
