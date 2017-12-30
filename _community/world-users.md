@@ -9,7 +9,7 @@ Here are just a few:
 
  * [Free](http://www.free.fr)
  * [Rockbox](http://www.rockbox.org/tracker) - media player software
- * <a href="http://bugs.archlinux.org" style="display:inline-block;background-color:#333;"><img src="https://bugs.archlinux.org/themes/ArchLinux/archlogo.png"></a><a href="http://bugs.archlinux.org"> Arch Linux</a> a lightweight and flexible Linux® distribution that tries to Keep It Simple
+ * <a href="https://bugs.archlinux.org" style="display:inline-block;background-color:#333;"><img src="https://bugs.archlinux.org/themes/ArchLinux/archlogo.png" width="200px"></a><a href="https://bugs.archlinux.org"> Arch Linux</a> a lightweight and flexible Linux® distribution that tries to Keep It Simple
  * [CDBurnerXP](https://bugs.cdburnerxp.se)
  * [The Veloz Group](http://www.thevelozgroup.com), including  
 [Arcade Buffs](http://www.arcadebuffs.com)   
@@ -18,7 +18,7 @@ Here are just a few:
 [Briarmont & Co](http://www.briarmontcompany.com)  
 [Custom Tobacco](http://www.customtobacco.com)  
 [Smith & Walker Tools](http://www.smithandwalkertools.com)
- * [DMXControl](http://www.dmxcontrol.de/flyspray/)
+ * <a href="https://bugs.dmxcontrol-projects.org"><img src="https://dmxcontrol.de/images/logo/dmxcp_logo_default_grey.png" width="200px"> DMXControl Projects e.V.</a>
  * [Grupa Marketingowa TAI Sp. z o.o](http://tai.pl)
  * [Helicon Books](http://www.heliconbooks.com)
  * [Simple Shop](http://www.simple-shop.si/bt/)
@@ -29,7 +29,7 @@ Here are just a few:
  * [SIB Visions GmbH](http://www.sibvisions.com)
  * <a href="http://www.publicis-technology.com">Publicis Technology</a>
  * <a href="https://bugs.openttd.org/"><img src="http://media.openttd.org/media/images/layout/openttd-64.gif"> OpenTTD</a> is an open source simulation game based upon Transport Tycoon Deluxe 
- * <a href="http://dev.conlite.org/tickets"><img src="http://conlite.org/pub/static/images/cl-logo.png" width="100px"> Conlite CMS</a> - the lightweight way to manage your content 
+ * <a href="http://dev.conlite.org/tickets"><img src="http://conlite.org/pub/static/images/cl-logo.png" width="200px"> Conlite CMS</a> - the lightweight way to manage your content 
 
 > Why ConLite uses Flyspray:
 > Flyspray is easy to install and easy to use. Also Flyspray gives us all we need to handle bugs and tickets for our growing community. Every ConLite user may register to our instance of Flyspray to send us bugs or enhancements. Flyspray let us manage this request in an easy and effectiv way.
