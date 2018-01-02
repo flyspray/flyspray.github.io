@@ -54,8 +54,7 @@ baseurl: ''
 permalink: pretty
 
 # Syntax highlighting
-highlighter: pygments
-pygments: true
+highlighter: rouge
 
 # Since these are pages, it doesn't really matter
 future: true
