@@ -62,15 +62,9 @@ future: true
 # Exclude non-site files
 exclude: ['bin', 'README.md', '_manual/images']
 
-# Use the redcarpet Markdown renderer
+# kramdown is currently the only supported Markdown renderer for github pages
+# https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/
 markdown: kramdown
-redcarpet:
- extensions: [
-    "no_intra_emphasis",
-    "fenced_code_blocks",
-    "autolink",
-    "tables",
-    "with_toc_data"
-]
+
 gems:
   - jekyll-redirect-from
