@@ -22,9 +22,9 @@ Source and since Flyspray 1.0-rc4 also complete build available on https://githu
 </thead>
 <tbody>
 	<tr>
-	<td rowspan="2">1.0-rc7 release</td>
+		<td rowspan="2">1.0-rc7 release</td>
 		<td>Precompiled with 3rd party libs, all PHP versions: 
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc7/flyspray-1.0-rc7.tgz">flyspray-1.0-rc7.tgz</a>
+		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc7/flyspray-1.0-rc7.tgz">flyspray-1.0-rc7.tgz</a></td>
 		<td rowspan="2">latest release, 16 July 2018, with PHP 7.2 support</td>	
 	</tr>
 	<tr>
