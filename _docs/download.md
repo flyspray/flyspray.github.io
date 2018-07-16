@@ -22,29 +22,16 @@ Source and since Flyspray 1.0-rc4 also complete build available on https://githu
 </thead>
 <tbody>
 	<tr>
-		<td>1.0-rc6 release</td>
-		<td>Source as .zip:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc6.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc6.zip</a><br/>as .tar.gz:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc6.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc6.tar.gz</a>
-		</td>
-		<td>Security release</td>
-	</tr>	
-	<tr>
-		<td rowspan="2">1.0-rc4 release</td>
-		<td colspan="2">Source as .zip:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc4.zip">https://github.com/Flyspray/flyspray/archive/v1.0-rc4.zip</a><br/>as .tar.gz:<br/>
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc4.tar.gz">https://github.com/Flyspray/flyspray/archive/v1.0-rc4.tar.gz</a>
-		</td>
+	<td rowspan="2">1.0-rc7 release</td>
+		<td>Precompiled with 3rd party libs, all PHP versions: 
+		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc7/flyspray-1.0-rc7.tgz">flyspray-1.0-rc7.tgz</a>
+		<td rowspan="2">latest release with PHP 7.2 support</td>	
 	</tr>
 	<tr>
-		<td>Precompiled with 3rd party libs for PHP5.2 and PHP5.3: 
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc4/flyspray-1.0-rc4_php53.tgz">flyspray-1.0-rc4_php53.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.4 and PHP5.5: 
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc4/flyspray-1.0-rc4_php54.tgz">flyspray-1.0-rc4_php54.tgz</a>
-		<br/><br/>Precompiled with 3rd party libs for PHP5.6 and PHP7:
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc4/flyspray-1.0-rc4_php56.tgz">flyspray-1.0-rc4_php56.tgz</a>
-		</td>
-		<td>For people who cannot run composer on command line on their web hosting: releases that contain all required 3rd party libraries in one .tgz for different versions of PHP</td>
+		<td>Source as .zip:
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc7.zip">v1.0-rc7.zip</a>
+		<br/>Source as .tar.gz:
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc7.tar.gz">v1.0-rc7.tar.gz</a></td>
 	</tr>
 	<tr>
 		<td>Development</td>
@@ -57,22 +44,12 @@ Source and since Flyspray 1.0-rc4 also complete build available on https://githu
 #### Updating from previous versions 
 
   * Create a backup of your files and database
-  * Remove **all files** except the /attachments/ , /avatars/ (since FS1.0 alpha), /vendors/ directories and /flyspray.conf.php
-   * Copy the new files to the Flyspray directory
+  * Remove **all files** except the /attachments/ , /avatars/ , /vendors/ directories and /flyspray.conf.php
+  * Copy the new files to the Flyspray directory
   * make sure flyspray.conf.php is writeable by the webserver.
   * Run the upgrader at http://yourflyspray/setup/ (detects upgrade needed and guides you)
-  * Remove the /setup folder after all went fine.
-
-
-#### Alpha and Beta releases
-
-Alpha releases may still contain critical bugs and are subject to changes without notice. Alpha packages can be updated without version changes.
-
-* We recommend these releases to advanced users
-* Downloading these versions will get you the newest features available.
-* Beta versions contain every features that the final product will have.
-* We await from alpha and beta users that they report us bugs they encounter using our bug tracker: [file bugs](http://bugs.flyspray.org)
-
+  * Remove the /setup/ folder after all went fine.
+  
 
 #### Development Release
 
