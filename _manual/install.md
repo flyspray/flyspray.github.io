@@ -43,7 +43,7 @@ su postgres;
 createuser -SDRP flyspray;
 createdb -E UNICODE -O flyspray flyspray;
 ```
-  * Make sure the attachments/ and cache/ directory is writeable by the webserver.
+  * Make sure the attachments/ , avatars/ , and cache/ directory is writeable by the webserver.
 
 
 
