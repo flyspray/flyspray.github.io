@@ -15,7 +15,7 @@ That being said, you will soon find here a complete list of our requirements. Th
 
 ### Indentation
 
-* You will use tabs to correctly ident your code. Spaces are only authorized to fine tune your indentation in case of multiline if statements per example
+* You will use tabs to correctly indent your code. Spaces are only authorized to fine tune your indentation in case of multiline if statements per example
 * Childs must be correctly indent to their respective parents, and that is for any language, PHP of course, but HTML, CSS, Javascript or any other programming language or format Flyspray uses.
 
 ### Variables
