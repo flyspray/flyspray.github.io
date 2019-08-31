@@ -9,6 +9,5 @@ order: 30
 
 - Please do not put too much into one PR. To ease reviewing and testing, it is prefered that a pull request handles only one single problem. That because one obstacle/problem and it delays the possible good stuff to merge.
 - Please give pull requests a good summary, `$name fixes` as an example, to make the review process easier.
-- Note that the correct spelling is `Flyspray` (just a **F** capital letter).
 
 If you whish to, you can **[contribute documentation](/manual/writing_documentation)** here.
