@@ -60,7 +60,7 @@ and then clicking in the history tab.
 
   1. 18, November 2007 - KAWASHIMA Takahiro disclosed vulnerability at security@flyspray.org
   2. 19, November 2007 - possible solution discussed privately
-  3. 19, November 2007 - Fix commited the SVN repository
+  3. 19, November 2007 - Fix committed the SVN repository
   4. 09, December 2007 - Public disclosure.
 
 ##### Recommendation
