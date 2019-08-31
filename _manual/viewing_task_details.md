@@ -27,5 +27,6 @@ The fields may vary , since the admin / project manager can add and remove field
   * [Closing Tasks](/manual/closing_tasks)
   * [Editing Task Details](/manual/editing_task_details)
   * [Private Tasks](/manual/private_tasks)
-  * [Comments / Attachments](/manual/comments)
+  * [Comments](/manual/comments)
+  * [Attachments](/manual/attachments)
   * [Notifications](/manual/notifications)
