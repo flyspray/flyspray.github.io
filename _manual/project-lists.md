@@ -5,7 +5,7 @@ manual: proj
 order: 10
 ---
 
-*Lists* are those dropdown list items that you see on the task details page, and the new task page. They allow you to classify your tasks further by specifying things like *Task Type*, *Category*, etc. You can also [[searching tasks|search for tasks]], using content of Lists as search criteria. There are six project-level lists - *Task Types*, *Task Statuses*, *Resolutions*, *Categories*, *Operating Systems* and *Versions*.
+*Lists* are those dropdown list items that you see on the task details page, and the new task page. They allow you to classify your tasks further by specifying things like *Task Type*, *Category*, etc. You can also [search for tasks](/manual/searching_tasks), using content of Lists as search criteria. There are six project-level lists - *Task Types*, *Task Statuses*, *Resolutions*, *Categories*, *Operating Systems* and *Versions*.
 
 Although the name of each of these lists is pre-defined, the items in the list are entirely up to you. If you want to use versions called *Apple*, *Orange* and *Banana* you can.
 

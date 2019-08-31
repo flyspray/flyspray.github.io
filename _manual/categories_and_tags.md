@@ -10,33 +10,35 @@ With Flyspray 1.0 tags are supported. They are just labels that can be applied t
 
 The differences between **categories** and **tags** in Flyspray 1.0 are:
 
-##Categories
+## Categories
 
-####Good
+
+#### Good
 
   - A category can have one default assigned user, who can gets assigned automatically to each task created in that category.
   - The category filter is available in the extended search
   
-####Neutral
+#### Neutral
 
   - Can be grouped in a hierachy tree.
 
-####Bad
+#### Bad
 
   - A task can only be in one category.
-  
-##Tags
 
-####Good
+
+## Tags
+
+#### Good
 
   - multiple tags per task
 
-####Bad
+#### Bad
 
   - not searchable or filterable yet (planned for FS1.1)
   - no grouping of tags (taxonomy)
   
   
-##TODO
+## TODO
 
 Examples -  what is good for categories and which are better done as tags.

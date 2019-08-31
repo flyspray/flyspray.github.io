@@ -25,7 +25,7 @@ To add a user to the notification list for a task start typing there name in the
 
 ### Technical Information 
 
-**Adding to notification list:**  The dropdown list for adding users to the notification list does not contain every user registered on your Flyspray installation.  The list only contains users who are members of your [Project groups](/manual/project_groups), as well as users in [global groups](/manual/global_groups) defined as "can be assigned tasks" in the [[global options]].  This is done by the ListUsers() function, in `includes/functions.inc.php`
+**Adding to notification list:**  The dropdown list for adding users to the notification list does not contain every user registered on your Flyspray installation.  The list only contains users who are members of your [Project groups](/manual/project_groups), as well as users in [global groups](/manual/global_groups) defined as "can be assigned tasks" in the [global options](/manual/global_options).  This is done by the ListUsers() function, in `includes/functions.inc.php`
 
 **Database tables:**  Users to be notified are listed in the **{$dbprefix}_notifications** table.
 
