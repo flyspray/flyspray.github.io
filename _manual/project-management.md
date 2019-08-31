@@ -43,7 +43,7 @@ Look at [understanding permissions](/manual/understanding_permissions) to find o
 
 <dl>
 	<dt>Theme</dt>
-	<dd>The colour scheme and layout for this project. See <a href="/manual/themes">Themes</a></dd>
+	<dd>The colour scheme and layout for this project. See <a href="/manual/themes">Themes</a>.</dd>
 	<dt>Default entry page</dt>
 	<dd>You to choose which view is displayed when opening a project. Tasklist and roadmap should be clear, "top level view" is a little summary for the project, also called "overview".
 	</dd>
