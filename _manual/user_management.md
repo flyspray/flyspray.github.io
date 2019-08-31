@@ -24,7 +24,7 @@ Notify Type is how the user wishes to receive notifications about changes to tas
 
   * Flyspray 0.9.8 and newer versions use the PHP [strftime](http://php.net/strfatime) function instead, which is more flexible and supports locale-specific dates, but which uses different format strings.
 
-Users without Admin permissions cannot edit the next two fields - *Global Group* and *Account Enabled*. Unchecking the *Account Enabled* box will disable the user's account, and immediately log them out. Learn about global groups on the [global groups](/manual/group_groups) page.
+Users without Admin permissions cannot edit the next two fields - *Global Group* and *Account Enabled*. Unchecking the *Account Enabled* box will disable the user's account, and immediately log them out. Learn about global groups on the [global groups](/manual/global_groups) page.
 
 To change a user's password, simply type a new one into the *Change Password* field, and the same one again into the *Confirm Password* field.
 
