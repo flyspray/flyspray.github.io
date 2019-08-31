@@ -20,7 +20,7 @@ That being said, you will soon find here a complete list of our requirements. Th
 
 ### Variables
 
-* Use english only for variables.
+* Use English only for variables.
 * Name your variables correctly. Their name must be in direct relation to their use.
 * We follow the camelCase convention for Javascript and PHP
 
