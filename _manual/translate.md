@@ -15,5 +15,5 @@ To compare current text strings between languages and see what strings need to c
 
 You can find it in the Flyspray admin section and has currently 2 more views:
 
-  * A diff report overview: which strings are missing, not used anymore and direct comparision between English and a language.
-  * The editing view for your local translation customization. But it should be prefered to upstream you translations to [the GitHub repository](https://github.com/Flyspray/flyspray/)! 
+  * A diff report overview: which strings are missing, not used anymore and direct comparison between English and a language.
+  * The editing view for your local translation customization. But it should be preferred to upstream you translations to [the GitHub repository](https://github.com/Flyspray/flyspray/)! 
