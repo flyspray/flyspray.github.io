@@ -14,6 +14,8 @@ If you are in a group with the *Add Comments* permission, adding a new comment t
 ### Attachments 
 If you are a member of a group with the *Create Attachments* permission, you will see a file dialog beneath the *Add Comment* text area.  You are then able to attach a file to your comment, using the comment text as a description of what you are attaching.  If you want to attach more than one file, click the *Select More Files* button to show another file dialog.  You can attach unlimited files to each comment.
 
+See the [attachments](/manual/attachments) page for more info on this.
+
 ### Typical problems 
 If there is no "Attachment" dialog...
   - Check that "W" and "X" permissions exist for the attachments directory.
