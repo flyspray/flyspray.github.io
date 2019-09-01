@@ -36,7 +36,7 @@ The Flyspray team will not release an example exploit to the public.
 
   1. 13, March 2007 - vulnerability discovered by Stefan Esser
   2. 13, March 2007 - possible solution discussed privately
-  3. 13, March 2007 - Fix commited the SVN repository
+  3. 13, March 2007 - Fix committed the SVN repository
   4. 16, March 2007 - Public disclosure.
 
 #### Recommendation

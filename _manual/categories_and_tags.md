@@ -20,7 +20,7 @@ The differences between **categories** and **tags** in Flyspray 1.0 are:
   
 #### Neutral
 
-  - Can be grouped in a hierachy tree.
+  - Can be grouped in a hierarchy tree.
 
 #### Bad
 

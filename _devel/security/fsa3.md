@@ -45,7 +45,7 @@ The Flyspray team will not release an example exploit to the public.
 ##### Disclosure Timeline
 
   1. 08 February 2008 - DSecRG disclosed vulnerability at security@flyspray.org
-  2. 11 February 2008 - Fix commited the SVN repository
+  2. 11 February 2008 - Fix committed the SVN repository
   3. 24 February 2008 - Public disclosure.
 
 ##### Recommendation

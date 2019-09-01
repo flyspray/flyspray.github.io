@@ -17,7 +17,7 @@ But I know Flyspray for over 10 years, first as an extension component for CMS J
 I remembered when in need for such tool and now I try to help to bring it to a production ready shape plus
 adding my own features/requirements.
 
-## Inactive, past or occassional contributors 
+## Inactive, past or occasional contributors 
 
 ### Jordan Mendler
 
@@ -74,7 +74,7 @@ In my free time I enjoy playing guitar and listening to music **madly**. :-P
 ### Tony Collins (aka. knigits)
 
 <img src="/images/team/tony-head.jpg" class="img-circle profile-picture">
-I was the original web master/monkey for the [Psi XMPP client](https://www.psi-im.org), and created Flyspray as part of the Psi website to suit the project's needs.  After seeing it in action, others requested a copy of the code.  I then had to seperate Flyspray from the Psi website and turn it into a workable, standalone application.
+I was the original web master/monkey for the [Psi XMPP client](https://www.psi-im.org), and created Flyspray as part of the Psi website to suit the project's needs.  After seeing it in action, others requested a copy of the code.  I then had to separate Flyspray from the Psi website and turn it into a workable, standalone application.
 
 Today, I am the Flyspray Project Manager and lead developer.  I also maintain the website, and contribute to the documentation.  I manage the mailing list subscriptions and delete spam before it reaches the subscribers.
 
