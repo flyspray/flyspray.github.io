@@ -11,11 +11,11 @@ Basically we use PSR-12 https://www.php-fig.org/psr/psr-12/ for new Code with fo
 
 ### Indentation
 
-We use tabs instead of the 4 spaces for indenting.
+We use **tabs** instead of the 4 spaces for indenting.
 
 ### Variables
 
-* Use only english for variable names.
+* Use only English for variable names.
 * Give variables a matching meaning, not too long, not too short.
 
 * camelCase functions for PHP (they are case insensitive, so nothing breaks, but prefered format)
