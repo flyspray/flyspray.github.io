@@ -22,16 +22,16 @@ Source and since Flyspray 1.0-rc4 also complete build available on [https://gith
 </thead>
 <tbody>
 	<tr>
-		<td rowspan="2">1.0-rc9 release</td>
+		<td rowspan="2">1.0-rc10 release</td>
 		<td>Precompiled with 3rd party libs, all PHP versions: 
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc9/flyspray-1.0-rc9.tgz">flyspray-1.0-rc9.tgz</a></td>
-		<td rowspan="2">latest release, 22 April 2019</td>	
+		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc10/flyspray-1.0-rc10.tgz">flyspray-1.0-rc10.tgz</a></td>
+		<td rowspan="2">latest release, 23 April 2021</td>	
 	</tr>
 	<tr>
 		<td>Source as .zip:
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc9.zip">v1.0-rc9.zip</a>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc10.zip">v1.0-rc10.zip</a>
 		<br/>Source as .tar.gz:
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc9.tar.gz">v1.0-rc9.tar.gz</a></td>
+		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc10.tar.gz">v1.0-rc10.tar.gz</a></td>
 	</tr>
 	<tr>
 		<td>Development</td>
@@ -60,7 +60,7 @@ Make sure you know what you are getting into before you download the bleeding ed
  
 
 ### Past Releases
- * Flyspray 1.0-rc1 up to Flyspray 1.0-rc8 see [https://github.com/Flyspray/flyspray/releases](https://github.com/Flyspray/flyspray/releases)
+ * Flyspray 1.0-rc1 up to Flyspray 1.0-rc9 see [https://github.com/Flyspray/flyspray/releases](https://github.com/Flyspray/flyspray/releases)
  (1.0-rc2 and 1.0-rc5 are skipped versions if you wonder)
 #### Even older releases
  * **[Flyspray 1.0 Alpha 2](http://flyspray.org/packed/flyspray-1.0.alpha2.zip)** - 04 April 2015
