@@ -54,10 +54,6 @@ I was born in June 1993. I have had great luck putting random keycodes into my c
 
 In my free time I work on my vinyl collection and enjoy local restaurants. I feel comfortable in C, PHP, Python, Scheme (Read your SICP Son!), Javascript and SQL. I am always trying new stuff out and feel proud that I have learned 0.0001% of what is required to call myself a good computer programmer.  
 
-### Scott 
-
-<img src="/images/team/scott.png" class="img-circle profile-picture"> Found Flyspray from using Archlinux. Been using Flyspray ever since. Joined as a developer in January 2012 since development has been slow. I work in k-12 education managing servers, databases, training techs, and I do custom programming. I am skilled in PHP, Perl, Java, SQL, JQuery/JS, and CSS/HTML5. I enjoy web development as a job and hobby. I live in the USA.
-
 ### Bryan 
 
 Loves the command line.
