@@ -6,7 +6,7 @@ author: peterdd
 order: 31
 ---
 
-## Prevention
+### Prevention
 
 * When having only a fixed amount of users (e.g. company internal users), disable user registering at **Admin Toolbox->Preferences->User Registration** and add new users manually in the **Admin Toolbox->Users and Groups->Register New User**
 
@@ -23,11 +23,11 @@ Often spammer use generated email accounts that follow certain pattern and even 
 * Use external spam reducing tools that block/suspend/slowing down suspicious IPs/email addresses or behavior. Think of fail2ban or even third party lists (whitelisting, greylisting, blacklisting)
 
 
-## How to handle if it happened?
+### How to handle if it happened?
 
-I can only tell how I handle it where I am a Flyspray admin:
+I can only tell how I handle spam where I am a Flyspray admin:
 
-### Spam Account
+#### Spam Account
 
 If I clearly know it is just a spam account and not a misused/hacked normal user account:
 
@@ -38,7 +38,7 @@ If I clearly know it is just a spam account and not a misused/hacked normal user
 
 3. Delete the spam user account
 
-### Hacked User Account==
+#### Hacked User Account
 
 If I think the spam is from a hacked user account:
 
@@ -50,6 +50,6 @@ If I think the spam is from a hacked user account:
 3. Reenable/Edit user account if 1. is sorted out.
 
 
-### Quick and Dirty
+#### Quick and Dirty
 
 I you do not care to much about history/consistency and know SQL and have access to the database you can also brutal delete the offending comments and tasks of that user account from the database.
