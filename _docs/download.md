@@ -10,7 +10,7 @@ You've come to the right place. Before downloading, you might like to check the 
 
 ### Official Flyspray Downloads
 
-Source and since Flyspray 1.0-rc4 also complete build available on [https://github.com/Flyspray/flyspray/releases](https://github.com/Flyspray/flyspray/releases)
+Source and since Flyspray 1.0-rc4 also complete build available on [https://github.com/flyspray/flyspray/releases](https://github.com/flyspray/flyspray/releases)
 
 <table class="table">
 <thead>
@@ -22,16 +22,16 @@ Source and since Flyspray 1.0-rc4 also complete build available on [https://gith
 </thead>
 <tbody>
 	<tr>
-		<td rowspan="2">1.0-rc10 release</td>
+		<td rowspan="2">1.0-rc11 release</td>
 		<td>Precompiled with 3rd party libs, all PHP versions: 
-		<a href="https://github.com/Flyspray/flyspray/releases/download/v1.0-rc10/flyspray-1.0-rc10.tgz">flyspray-1.0-rc10.tgz</a></td>
-		<td rowspan="2">latest release, 23 April 2021</td>	
+		<a href="https://github.com/flyspray/flyspray/releases/download/v1.0-rc11/flyspray-1.0-rc11.tgz">flyspray-1.0-rc11.tgz</a></td>
+		<td rowspan="2">latest release, 29 January 2023</td>	
 	</tr>
 	<tr>
 		<td>Source as .zip:
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc10.zip">v1.0-rc10.zip</a>
+		<a href="https://github.com/flyspray/flyspray/archive/refs/tags/v1.0-rc11.zip">v1.0-rc11.zip</a>
 		<br/>Source as .tar.gz:
-		<a href="https://github.com/Flyspray/flyspray/archive/v1.0-rc10.tar.gz">v1.0-rc10.tar.gz</a></td>
+		<a href="https://github.com/flyspray/flyspray/archive/refs/tags/v1.0-rc11.tar.gz">v1.0-rc11.tar.gz</a></td>
 	</tr>
 	<tr>
 		<td>Development</td>
@@ -60,8 +60,9 @@ Make sure you know what you are getting into before you download the bleeding ed
  
 
 ### Past Releases
- * Flyspray 1.0-rc1 up to Flyspray 1.0-rc9 see [https://github.com/Flyspray/flyspray/releases](https://github.com/Flyspray/flyspray/releases)
+ * Flyspray 1.0-rc1 up to Flyspray 1.0-rc10 see [https://github.com/flyspray/flyspray/releases](https://github.com/flyspray/flyspray/releases)
  (1.0-rc2 and 1.0-rc5 are skipped versions if you wonder)
+
 #### Even older releases
  * **[Flyspray 1.0 Alpha 2](http://flyspray.org/packed/flyspray-1.0.alpha2.zip)** - 04 April 2015
  * **[Flyspray 1.0 Alpha](http://flyspray.org/packed/flyspray-1.0.alpha.zip)** - 16 March 2015
@@ -71,6 +72,3 @@ Make sure you know what you are getting into before you download the bleeding ed
  * **Flyspray 0.9.9.5** - 24 February 2008
  * **Flyspray 0.9.9.4** - 12 December 2007
  * **Flyspray 0.9.9.3** - 23 August 2007
-
-### Donate
-Although using Flyspray is free, developing it does cost money. [Please consider donating a few dollars via Paypal to help fund development](https://www.paypal.com/xclick/business=connect@thevelozgroup.com&amp;item_name=Flyspray+Donation&amp;no_shipping=1&amp;no_note=1&amp;tax=0).
