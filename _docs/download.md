@@ -25,7 +25,7 @@ Source and since Flyspray 1.0-rc4 also complete build available on [https://gith
 		<td rowspan="2">1.0-rc11 release</td>
 		<td>Precompiled with 3rd party libs, all PHP versions: 
 		<a href="https://github.com/flyspray/flyspray/releases/download/v1.0-rc11/flyspray-1.0-rc11.tgz">flyspray-1.0-rc11.tgz</a></td>
-		<td rowspan="2">latest release, 29 January 2023</td>	
+		<td rowspan="2">latest release, 29 January 2024</td>
 	</tr>
 	<tr>
 		<td>Source as .zip:
