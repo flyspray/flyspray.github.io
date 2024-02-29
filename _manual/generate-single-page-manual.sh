@@ -1,0 +1,32 @@
+cat                              \
+    install.md                   \
+    project-management.md        \
+    project-lists.md             \
+    themes.md                    \
+    user_management.md           \
+    understanding_permissions.md \
+    global_groups.md             \
+    project_groups.md            \
+    group_permissions.md         \
+    searching_tasks.md           \
+    viewing_task_details.md      \
+    editing_task_details.md      \
+    dependencies.md              \
+    private_tasks.md             \
+    comments.md                  \
+    attachments.md               \
+    related_tasks.md             \
+    notifications.md             \
+    categories_and_tags.md       \
+    reminders.md                 \
+    closing_tasks.md             \
+    history.md                   \
+    global_options.md            \
+    global_lists.md              \
+    reports.md                   \
+    devel_version.md             \
+    code_style.md                \
+    pull_request.md              \
+    writing_documentation.md     \
+    translate.md                 \
+    > single-page-manual.md      \
